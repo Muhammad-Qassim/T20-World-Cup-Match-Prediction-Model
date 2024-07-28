@@ -1,0 +1,1078 @@
+Venue,Date,Team_A,Team_B,Team_A_Ranking,Team_B_Ranking,Winner,Team_A_Score,Team_A_Wickets_Lost,Team_B_Score,Team_B_Wickets_Lost,Is_Home_Team_A,Is_Home_Team_B,Toss_Winner,Toss_Decision
+Melbourne Cricket Ground,2017-02-17,Australia,Sri Lanka,2,8,Sri Lanka,168,6,172,5,0,0,Sri Lanka,field
+Simonds Stadium,2017-02-19,Australia,Sri Lanka,2,8,Sri Lanka,173,10,176,8,0,0,Sri Lanka,field
+Adelaide Oval,2017-02-22,Australia,Sri Lanka,2,8,Australia,187,6,146,10,0,0,Sri Lanka,field
+McLean Park,2017-01-03,New Zealand,Bangladesh,5,9,New Zealand,143,4,141,8,0,0,Bangladesh,bat
+Bay Oval,2017-01-06,New Zealand,Bangladesh,5,9,New Zealand,195,7,148,10,0,0,Bangladesh,field
+Bay Oval,2017-01-08,New Zealand,Bangladesh,5,9,New Zealand,194,4,167,6,0,0,Bangladesh,field
+Eden Park,2017-02-17,New Zealand,South Africa,5,4,South Africa,107,10,185,6,0,0,New Zealand,field
+The Rose Bowl,2017-06-21,England,South Africa,3,4,England,143,1,142,3,0,0,South Africa,bat
+County Ground,2017-06-23,England,South Africa,3,4,South Africa,171,6,174,8,0,0,England,field
+Sophia Gardens,2017-06-25,England,South Africa,3,4,England,181,8,162,7,0,0,South Africa,field
+Riverside Ground,2017-09-16,West Indies,England,6,3,West Indies,176,9,155,10,1,0,England,field
+Green Park,2017-01-26,India,England,1,3,England,147,7,148,3,0,0,England,field
+Vidarbha Cricket Association Stadium,2017-01-29,India,England,1,3,India,144,8,139,6,0,0,England,field
+M Chinnaswamy Stadium,2017-02-01,India,England,1,3,India,202,6,127,10,0,0,England,field
+Greater Noida Sports Complex Ground,2017-03-08,Afghanistan,Ireland,10,11,Afghanistan,171,4,165,5,0,0,Ireland,bat
+Greater Noida Sports Complex Ground,2017-03-10,Afghanistan,Ireland,10,11,Afghanistan,184,8,93,9,0,0,Afghanistan,bat
+Greater Noida Sports Complex Ground,2017-03-12,Afghanistan,Ireland,10,11,Afghanistan,233,8,205,10,0,0,Ireland,field
+Central Broward Regional Park Stadium Turf Ground,2016-08-27,India,West Indies,1,6,West Indies,244,4,245,6,0,1,India,field
+Central Broward Regional Park Stadium Turf Ground,2016-08-28,India,West Indies,1,6,,15,0,143,10,0,1,India,field
+Dubai International Cricket Stadium,2016-09-23,Pakistan,West Indies,7,6,Pakistan,116,1,115,10,0,1,Pakistan,field
+Dubai International Cricket Stadium,2016-09-24,Pakistan,West Indies,7,6,Pakistan,160,4,144,9,0,1,West Indies,field
+Sheikh Zayed Stadium,2016-09-27,Pakistan,West Indies,7,6,Pakistan,108,2,103,5,0,1,Pakistan,field
+Sydney Cricket Ground,2018-02-03,New Zealand,Australia,5,2,Australia,117,9,96,3,0,0,Australia,field
+Bellerive Oval,2018-02-07,England,Australia,3,2,Australia,155,9,161,5,0,0,Australia,field
+Melbourne Cricket Ground,2018-02-10,England,Australia,3,2,Australia,137,7,138,3,0,0,Australia,field
+Westpac Stadium,2018-02-13,New Zealand,England,5,3,New Zealand,196,5,184,9,0,0,England,field
+Eden Park,2018-02-16,New Zealand,Australia,5,2,Australia,243,6,245,5,0,0,New Zealand,bat
+Seddon Park,2018-02-18,England,New Zealand,3,5,England,194,7,192,4,0,0,New Zealand,field
+Eden Park,2018-02-21,New Zealand,Australia,5,2,Australia,150,9,121,3,0,0,New Zealand,bat
+Sheikh Zayed Stadium,2017-01-14,Afghanistan,Ireland,10,11,Afghanistan,126,5,125,6,0,0,Ireland,bat
+Sheikh Zayed Stadium,2017-01-15,Netherlands,Oman,15,18,Netherlands,148,5,146,7,0,0,Oman,bat
+Sheikh Zayed Stadium,2017-01-17,Netherlands,Scotland,15,13,Scotland,141,10,148,7,0,0,Netherlands,field
+Dubai International Cricket Stadium,2017-01-19,Oman,Scotland,18,13,Scotland,133,10,134,3,0,0,Oman,bat
+Dubai International Cricket Stadium,2017-01-20,Afghanistan,Oman,10,18,Afghanistan,150,2,149,8,0,0,Afghanistan,field
+Dubai International Cricket Stadium,2017-01-20,Ireland,Scotland,11,13,Ireland,211,6,113,10,0,0,Scotland,field
+Dubai International Cricket Stadium,2017-01-20,Afghanistan,Ireland,10,11,Afghanistan,75,0,71,10,0,0,Ireland,bat
+Mangaung Oval,2017-10-26,South Africa,Bangladesh,4,9,South Africa,195,4,175,9,0,0,South Africa,bat
+Senwes Park,2017-10-29,South Africa,Bangladesh,4,9,South Africa,224,4,141,10,0,0,Bangladesh,field
+Kensington Oval,2017-03-26,West Indies,Pakistan,6,7,Pakistan,111,8,115,4,1,0,Pakistan,field
+Queen's Park Oval,2017-03-30,West Indies,Pakistan,6,7,Pakistan,129,8,132,10,1,0,West Indies,field
+R Premadasa Stadium,2017-04-04,Sri Lanka,Bangladesh,8,9,Sri Lanka,158,4,155,6,0,0,Bangladesh,bat
+R Premadasa Stadium,2017-04-06,Sri Lanka,Bangladesh,8,9,Bangladesh,131,10,176,9,0,0,Bangladesh,bat
+Queen's Park Oval,2017-04-01,West Indies,Pakistan,6,7,West Indies,138,3,137,8,1,0,Pakistan,bat
+Queen's Park Oval,2017-04-02,West Indies,Pakistan,6,7,Pakistan,124,8,127,3,1,0,Pakistan,field
+Warner Park,2017-06-02,West Indies,Afghanistan,6,10,West Indies,114,4,110,10,1,0,Afghanistan,bat
+Warner Park,2017-06-03,West Indies,Afghanistan,6,10,West Indies,112,3,93,10,1,0,West Indies,bat
+Warner Park,2017-06-05,West Indies,Afghanistan,6,10,West Indies,147,3,146,6,1,0,Afghanistan,bat
+Sabina Park,2017-07-09,West Indies,India,6,1,West Indies,194,1,190,6,1,0,West Indies,field
+R.Premadasa Stadium,2017-09-06,Sri Lanka,India,8,1,India,170,7,174,3,0,0,India,field
+Saxton Oval,2017-12-29,New Zealand,West Indies,5,6,New Zealand,187,7,140,10,0,1,West Indies,field
+Bay Oval,2018-01-01,New Zealand,West Indies,5,6,,102,4,0,0,0,1,West Indies,field
+Bay Oval,2018-01-03,New Zealand,West Indies,5,6,New Zealand,243,5,124,9,0,1,New Zealand,bat
+Westpac Stadium,2018-01-22,Pakistan,New Zealand,7,5,New Zealand,105,10,106,3,0,0,New Zealand,field
+Eden Park,2018-01-25,Pakistan,New Zealand,7,5,Pakistan,201,4,153,10,0,0,Pakistan,bat
+Bay Oval,2018-01-28,Pakistan,New Zealand,7,5,Pakistan,181,6,163,6,0,0,Pakistan,bat
+JSCA International Stadium Complex,2017-10-07,Australia,India,2,1,India,118,8,49,1,0,0,India,field
+Barsapara Cricket Stadium,2017-10-10,India,Australia,1,2,Australia,118,10,122,2,0,0,Australia,field
+Edgbaston,2018-06-27,England,Australia,3,2,England,221,5,193,10,0,0,Australia,field
+Old Trafford,2018-07-03,England,India,3,1,India,159,8,163,2,0,0,India,field
+Sophia Gardens,2018-07-06,India,England,1,3,England,148,5,149,5,0,0,England,field
+County Ground,2018-07-08,England,India,3,1,India,198,9,201,3,0,0,India,field
+Arun Jaitley Stadium,2017-11-01,India,New Zealand,1,5,India,202,3,149,8,0,0,New Zealand,field
+Saurashtra Cricket Association Stadium,2017-11-04,New Zealand,India,5,1,New Zealand,196,2,156,7,0,0,New Zealand,bat
+Greenfield International Stadium,2017-11-07,India,New Zealand,1,5,India,67,5,61,6,0,0,New Zealand,field
+Sheikh Zayed Stadium,2017-10-26,Sri Lanka,Pakistan,8,7,Pakistan,102,10,103,3,0,0,Pakistan,field
+Sheikh Zayed Stadium,2017-10-27,Sri Lanka,Pakistan,8,7,Pakistan,124,9,125,8,0,0,Pakistan,field
+Gaddafi Stadium,2017-10-29,Pakistan,Sri Lanka,7,8,Pakistan,180,3,144,9,0,0,Sri Lanka,field
+The Wanderers Stadium,2018-02-18,India,South Africa,1,4,India,203,5,175,9,0,0,South Africa,field
+SuperSport Park,2018-02-21,India,South Africa,1,4,South Africa,188,4,189,4,0,0,South Africa,field
+Newlands,2018-02-24,India,South Africa,1,4,India,172,7,165,6,0,0,South Africa,field
+Barabati Stadium,2017-12-20,India,Sri Lanka,1,8,India,180,3,87,10,0,0,Sri Lanka,field
+Holkar Cricket Stadium,2017-12-22,India,Sri Lanka,1,8,India,260,5,172,9,0,0,Sri Lanka,field
+Wankhede Stadium,2017-12-24,Sri Lanka,India,8,1,India,135,7,139,5,0,0,India,field
+Grange Cricket Club,2018-06-12,Pakistan,Scotland,7,13,Pakistan,204,4,156,6,0,0,Pakistan,bat
+Grange Cricket Club,2018-06-13,Pakistan,Scotland,7,13,Pakistan,166,6,82,10,0,0,Pakistan,bat
+Shere Bangla National Stadium,2018-02-15,Bangladesh,Sri Lanka,9,8,Sri Lanka,193,5,194,4,0,0,Bangladesh,bat
+Sylhet International Cricket Stadium,2018-02-18,Sri Lanka,Bangladesh,8,9,Sri Lanka,210,4,135,10,0,0,Bangladesh,field
+R.Premadasa Stadium,2018-03-06,India,Sri Lanka,1,8,Sri Lanka,174,5,175,5,0,0,Sri Lanka,field
+R.Premadasa Stadium,2018-03-08,Bangladesh,India,9,1,India,139,8,140,4,0,0,India,field
+R.Premadasa Stadium,2018-03-10,Sri Lanka,Bangladesh,8,9,Bangladesh,214,6,215,5,0,0,Bangladesh,field
+R.Premadasa Stadium,2018-03-12,Sri Lanka,India,8,1,India,152,9,153,4,0,0,India,field
+R.Premadasa Stadium,2018-03-14,India,Bangladesh,1,9,India,176,3,159,6,0,0,Bangladesh,field
+R.Premadasa Stadium,2018-03-16,Sri Lanka,Bangladesh,8,9,Bangladesh,159,7,160,8,0,0,Bangladesh,field
+R.Premadasa Stadium,2018-03-18,Bangladesh,India,9,1,India,166,8,168,6,0,0,India,field
+National Stadium,2018-04-01,Pakistan,West Indies,7,6,Pakistan,203,5,60,9,0,1,West Indies,field
+National Stadium,2018-04-02,Pakistan,West Indies,7,6,Pakistan,205,3,123,10,0,1,Pakistan,bat
+National Stadium,2018-04-03,West Indies,Pakistan,6,7,Pakistan,153,6,154,2,1,0,West Indies,bat
+R.Premadasa Stadium,2018-10-27,England,Sri Lanka,3,8,England,187,8,157,10,0,0,Sri Lanka,field
+The Village,2018-06-27,India,Ireland,1,11,India,208,5,132,9,0,0,Ireland,field
+The Village,2018-06-29,India,Ireland,1,11,India,213,4,70,10,0,0,Ireland,field
+Lord's,2018-07-29,Netherlands,Nepal,15,17,,174,4,0,0,0,0,Nepal,field
+Hazelaarweg,2018-06-12,Netherlands,Ireland,15,11,Netherlands,144,10,140,8,0,0,Ireland,field
+Hazelaarweg,2018-06-13,Ireland,Netherlands,11,15,Netherlands,158,6,159,6,0,0,Ireland,bat
+Sportpark Het Schootsveld,2018-06-16,Ireland,Scotland,11,13,Ireland,205,5,159,5,0,0,Ireland,bat
+Sportpark Het Schootsveld,2018-06-17,Scotland,Ireland,13,11,,185,4,185,6,0,0,Scotland,bat
+VRA Ground,2018-06-19,Netherlands,Scotland,15,13,Scotland,160,6,161,3,0,0,Netherlands,bat
+VRA Ground,2018-06-20,Scotland,Netherlands,13,15,Scotland,221,3,106,9,0,0,Scotland,bat
+R.Premadasa Stadium,2018-08-14,South Africa,Sri Lanka,4,8,Sri Lanka,98,10,99,7,0,0,South Africa,bat
+Harare Sports Club,2018-07-02,Pakistan,Australia,7,2,Australia,116,10,117,1,0,0,Australia,field
+Harare Sports Club,2018-07-05,Pakistan,Australia,7,2,Pakistan,194,7,149,7,0,0,Australia,field
+Harare Sports Club,2018-07-08,Australia,Pakistan,2,7,Pakistan,183,8,187,4,0,0,Australia,bat
+Newlands,2019-02-01,South Africa,Pakistan,4,7,South Africa,192,6,186,9,0,0,Pakistan,field
+The Wanderers Stadium,2019-02-03,South Africa,Pakistan,4,7,South Africa,188,3,181,7,0,0,Pakistan,field
+SuperSport Park,2019-02-06,South Africa,Pakistan,4,7,Pakistan,141,9,168,9,0,0,South Africa,field
+Newlands,2019-03-19,South Africa,Sri Lanka,4,8,,148,8,139,7,0,0,South Africa,field
+SuperSport Park,2019-03-22,South Africa,Sri Lanka,4,8,South Africa,180,3,164,9,0,0,Sri Lanka,field
+The Wanderers Stadium,2019-03-24,South Africa,Sri Lanka,4,8,South Africa,198,2,137,10,0,0,Sri Lanka,field
+Carrara Oval,2018-11-17,South Africa,Australia,4,2,South Africa,108,6,87,7,0,0,Australia,field
+Brisbane Cricket Ground,2018-11-21,Australia,India,2,1,Australia,158,4,169,7,0,0,India,field
+Melbourne Cricket Ground,2018-11-23,Australia,India,2,1,,132,7,0,0,0,0,India,field
+Sydney Cricket Ground,2018-11-25,Australia,India,2,1,India,164,6,168,4,0,0,Australia,bat
+Rajiv Gandhi International Cricket Stadium,2018-06-03,Afghanistan,Bangladesh,10,9,Afghanistan,167,8,122,10,0,0,Bangladesh,field
+Rajiv Gandhi International Cricket Stadium,2018-06-05,Bangladesh,Afghanistan,9,10,Afghanistan,134,8,135,4,0,0,Bangladesh,bat
+Rajiv Gandhi International Cricket Stadium,2018-06-07,Afghanistan,Bangladesh,10,9,Afghanistan,145,6,144,6,0,0,Afghanistan,bat
+Warner Park,2018-07-31,Bangladesh,West Indies,9,6,West Indies,143,9,93,3,0,1,West Indies,field
+Central Broward Regional Park Stadium Turf Ground,2018-08-04,Bangladesh,West Indies,9,6,Bangladesh,171,5,159,9,0,1,West Indies,field
+Central Broward Regional Park Stadium Turf Ground,2018-08-05,Bangladesh,West Indies,9,6,Bangladesh,184,5,135,7,0,1,Bangladesh,bat
+Bready Cricket Club,2018-08-20,Afghanistan,Ireland,10,11,Afghanistan,160,7,144,9,0,0,Ireland,field
+Bready Cricket Club,2018-08-22,Afghanistan,Ireland,10,11,Afghanistan,160,8,79,10,0,0,Afghanistan,bat
+Sophia Gardens,2019-05-05,England,Pakistan,3,7,England,175,3,173,6,0,0,Pakistan,bat
+Sylhet International Cricket Stadium,2018-12-17,Bangladesh,West Indies,9,6,West Indies,129,10,130,2,0,1,Bangladesh,bat
+Shere Bangla National Stadium,2018-12-20,Bangladesh,West Indies,9,6,Bangladesh,211,4,175,10,0,1,West Indies,field
+Shere Bangla National Stadium,2018-12-22,Bangladesh,West Indies,9,6,West Indies,140,10,190,10,0,1,Bangladesh,field
+Westpac Stadium,2019-02-06,New Zealand,India,5,1,New Zealand,219,6,139,10,0,0,India,field
+Eden Park,2019-02-08,New Zealand,India,5,1,India,158,8,162,3,0,0,New Zealand,bat
+Seddon Park,2019-02-10,New Zealand,India,5,1,New Zealand,212,4,208,6,0,0,India,field
+Eden Park,2019-01-11,New Zealand,Sri Lanka,5,8,New Zealand,179,7,144,10,0,0,Sri Lanka,field
+Sheikh Zayed Stadium,2018-10-24,Pakistan,Australia,7,2,Pakistan,155,8,89,10,0,0,Australia,field
+Dubai International Cricket Stadium,2018-10-26,Pakistan,Australia,7,2,Pakistan,147,6,136,8,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2018-10-28,Pakistan,Australia,7,2,Pakistan,150,5,117,10,0,0,Pakistan,bat
+Sheikh Zayed Stadium,2018-10-31,Pakistan,New Zealand,7,5,Pakistan,148,6,146,6,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2018-11-02,New Zealand,Pakistan,5,7,Pakistan,153,7,154,4,0,0,New Zealand,bat
+Dubai International Cricket Stadium,2018-11-04,Pakistan,New Zealand,7,5,Pakistan,166,3,119,10,0,0,Pakistan,bat
+Eden Gardens,2018-11-04,West Indies,India,6,1,India,109,8,110,5,1,0,India,field
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2018-11-06,India,West Indies,1,6,India,195,2,124,9,0,1,West Indies,field
+MA Chidambaram Stadium,2018-11-11,West Indies,India,6,1,India,181,3,182,4,1,0,West Indies,bat
+Darren Sammy National Cricket Stadium,2019-03-05,West Indies,England,6,3,England,160,8,161,6,1,0,England,field
+Warner Park,2019-03-08,West Indies,England,6,3,England,45,10,182,6,1,0,West Indies,field
+Warner Park,2019-03-10,West Indies,England,6,3,England,71,10,72,2,1,0,West Indies,bat
+Rajiv Gandhi International Cricket Stadium,2019-02-21,Afghanistan,Ireland,10,11,Afghanistan,136,5,132,6,0,0,Ireland,bat
+Rajiv Gandhi International Cricket Stadium,2019-02-23,Afghanistan,Ireland,10,11,Afghanistan,278,3,194,6,0,0,Afghanistan,bat
+Rajiv Gandhi International Cricket Stadium,2019-02-24,Afghanistan,Ireland,10,11,Afghanistan,210,7,178,8,0,0,Ireland,field
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019-02-24,India,Australia,1,2,Australia,126,7,127,7,0,0,Australia,field
+M.Chinnaswamy Stadium,2019-02-27,India,Australia,1,2,Australia,190,4,194,3,0,0,Australia,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-02-13,Netherlands,Scotland,15,13,Netherlands,154,3,153,7,0,0,Netherlands,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-02-13,Oman,Ireland,18,11,Ireland,144,9,159,5,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-02-15,Oman,Netherlands,18,15,Netherlands,166,4,167,2,0,0,Netherlands,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-02-15,Ireland,Scotland,11,13,Scotland,180,7,181,4,0,0,Scotland,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-02-17,Ireland,Netherlands,11,15,Ireland,183,9,182,9,0,0,Ireland,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-02-17,Oman,Scotland,18,13,Scotland,111,10,115,3,0,0,Scotland,field
+Adelaide Oval,2019-10-27,Australia,Sri Lanka,2,8,Australia,233,2,99,9,0,0,Sri Lanka,field
+Brisbane Cricket Ground,2019-10-30,Australia,Sri Lanka,2,8,Australia,118,1,117,10,0,0,Sri Lanka,bat
+Melbourne Cricket Ground,2019-11-01,Australia,Sri Lanka,2,8,Australia,145,3,142,6,0,0,Australia,field
+Sydney Cricket Ground,2019-11-03,Australia,Pakistan,2,7,,41,0,107,5,0,0,Australia,field
+Manuka Oval,2019-11-05,Australia,Pakistan,2,7,Australia,151,3,150,6,0,0,Pakistan,bat
+Perth Stadium,2019-11-08,Australia,Pakistan,2,7,Australia,109,0,106,8,0,0,Australia,field
+Kyambogo Cricket Oval,2019-05-21,Uganda,Namibia,22,14,Namibia,125,8,167,7,0,0,Namibia,bat
+Buffalo Park,2020-02-12,South Africa,England,4,3,South Africa,177,8,176,9,0,0,England,field
+Kingsmead,2020-02-14,South Africa,England,4,3,England,202,7,204,7,0,0,South Africa,field
+SuperSport Park,2020-02-16,South Africa,England,4,3,England,222,6,226,5,0,0,South Africa,bat
+The Wanderers Stadium,2020-02-21,South Africa,Australia,4,2,Australia,89,10,196,6,0,0,South Africa,field
+St George's Park,2020-02-23,South Africa,Australia,4,2,South Africa,158,4,146,6,0,0,South Africa,bat
+Newlands,2020-02-26,South Africa,Australia,4,2,Australia,96,10,193,5,0,0,South Africa,field
+Punjab Cricket Association IS Bindra Stadium,2019-09-18,India,South Africa,1,4,India,151,3,149,5,0,0,India,field
+M.Chinnaswamy Stadium,2019-09-22,India,South Africa,1,4,South Africa,134,9,140,1,0,0,India,bat
+Arun Jaitley Stadium,2019-11-03,India,Bangladesh,1,9,Bangladesh,148,6,154,3,0,0,Bangladesh,field
+Saurashtra Cricket Association Stadium,2019-11-07,India,Bangladesh,1,9,India,154,2,153,6,0,0,India,field
+Vidarbha Cricket Association Stadium,2019-11-10,India,Bangladesh,1,9,India,174,5,144,10,0,0,Bangladesh,field
+Rajiv Gandhi International Stadium,2019-12-06,India,West Indies,1,6,India,209,4,207,5,0,1,India,field
+Greenfield International Stadium,2019-12-08,India,West Indies,1,6,West Indies,170,7,173,2,0,1,West Indies,field
+Wankhede Stadium,2019-12-11,India,West Indies,1,6,India,240,3,173,8,0,1,West Indies,field
+Hagley Oval,2019-11-01,New Zealand,England,5,3,England,153,5,154,3,0,0,England,field
+Westpac Stadium,2019-11-03,New Zealand,England,5,3,New Zealand,176,8,155,10,0,0,England,field
+Saxton Oval,2019-11-05,New Zealand,England,5,3,New Zealand,180,7,166,7,0,0,New Zealand,bat
+McLean Park,2019-11-08,New Zealand,England,5,3,England,165,10,241,3,0,0,New Zealand,field
+Eden Park,2019-11-10,New Zealand,England,5,3,,154,6,163,7,0,0,England,field
+Eden Park,2020-01-24,New Zealand,India,5,1,India,203,5,204,4,0,0,India,field
+Eden Park,2020-01-26,New Zealand,India,5,1,India,132,5,135,3,0,0,New Zealand,bat
+Seddon Park,2020-01-29,New Zealand,India,5,1,,196,6,199,5,0,0,New Zealand,field
+Westpac Stadium,2020-01-31,New Zealand,India,5,1,,178,8,181,9,0,0,New Zealand,field
+Bay Oval,2020-02-02,New Zealand,India,5,1,India,156,9,163,4,0,0,India,bat
+Central Broward Regional Park Stadium Turf Ground,2019-08-03,India,West Indies,1,6,India,98,6,95,9,0,1,India,field
+Central Broward Regional Park Stadium Turf Ground,2019-08-04,India,West Indies,1,6,India,167,5,98,4,0,1,India,bat
+Providence Stadium,2019-08-06,West Indies,India,6,1,India,146,6,150,3,1,0,India,field
+Pallekele International Cricket Stadium,2019-09-01,Sri Lanka,New Zealand,8,5,New Zealand,174,4,175,5,0,0,Sri Lanka,bat
+Pallekele International Cricket Stadium,2019-09-03,Sri Lanka,New Zealand,8,5,New Zealand,161,9,165,6,0,0,Sri Lanka,bat
+Pallekele International Cricket Stadium,2019-09-06,Sri Lanka,New Zealand,8,5,Sri Lanka,125,8,88,10,0,0,Sri Lanka,bat
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2019-11-14,Afghanistan,West Indies,10,6,West Indies,134,9,164,5,0,1,Afghanistan,field
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2019-11-16,Afghanistan,West Indies,10,6,Afghanistan,147,7,106,8,0,1,Afghanistan,bat
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2019-11-17,Afghanistan,West Indies,10,6,Afghanistan,156,8,127,7,0,1,Afghanistan,bat
+Shere Bangla National Stadium,2019-09-15,Bangladesh,Afghanistan,9,10,Afghanistan,139,10,164,6,0,0,Afghanistan,bat
+Zahur Ahmed Chowdhury Stadium,2019-09-21,Bangladesh,Afghanistan,9,10,Bangladesh,139,6,138,7,0,0,Bangladesh,field
+White Hill Field,2019-08-21,Canada,United States of America,23,19,Canada,145,6,144,6,0,1,United States of America,bat
+White Hill Field,2019-08-25,Canada,United States of America,23,19,Canada,173,8,158,8,0,1,United States of America,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-10-05,Ireland,Netherlands,11,15,Ireland,169,4,167,7,0,0,Ireland,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-10-06,Oman,Ireland,18,11,Oman,173,9,130,10,0,0,Ireland,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-10-07,Nepal,Netherlands,17,15,Nepal,134,6,133,10,0,0,Nepal,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-10-09,Ireland,Nepal,11,17,Ireland,145,8,132,10,0,0,Ireland,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-10-09,Oman,Netherlands,18,15,Oman,95,3,94,10,0,0,Netherlands,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2019-10-10,Oman,Nepal,18,17,Oman,65,4,64,10,0,0,Oman,field
+The Rose Bowl,2020-09-04,England,Australia,3,2,England,162,7,160,6,0,0,Australia,field
+The Rose Bowl,2020-09-06,Australia,England,2,3,England,157,7,158,4,0,0,Australia,bat
+The Rose Bowl,2020-09-08,England,Australia,3,2,Australia,145,6,146,5,0,0,Australia,field
+Old Trafford,2020-08-28,England,Pakistan,3,7,,131,6,0,0,0,0,Pakistan,field
+Old Trafford,2020-08-30,Pakistan,England,7,3,England,195,4,199,5,0,0,England,field
+Old Trafford,2020-09-01,Pakistan,England,7,3,Pakistan,190,4,185,8,0,0,England,field
+Gaddafi Stadium,2019-10-05,Pakistan,Sri Lanka,7,8,Sri Lanka,101,10,165,5,0,0,Pakistan,field
+Gaddafi Stadium,2019-10-07,Pakistan,Sri Lanka,7,8,Sri Lanka,147,10,182,6,0,0,Sri Lanka,bat
+Gaddafi Stadium,2019-10-09,Pakistan,Sri Lanka,7,8,Sri Lanka,134,6,147,7,0,0,Sri Lanka,bat
+ICC Academy,2019-10-19,Namibia,Netherlands,14,15,Netherlands,96,10,140,6,0,0,Netherlands,bat
+ICC Academy Ground No 2,2019-10-20,Namibia,Papua New Guinea,14,20,Papua New Guinea,116,10,197,7,0,0,Papua New Guinea,bat
+ICC Academy,2019-10-21,Papua New Guinea,Scotland,20,13,Scotland,142,9,146,6,0,0,Scotland,bat
+Tolerance Oval,2019-10-21,Ireland,Oman,11,18,Ireland,183,3,148,9,0,0,Oman,field
+ICC Academy,2019-10-22,Namibia,Scotland,14,13,Namibia,159,6,135,8,0,0,Namibia,bat
+Sheikh Zayed Stadium,2019-10-23,Canada,Ireland,23,11,Canada,156,5,146,7,0,0,Canada,bat
+ICC Academy,2019-10-24,Netherlands,Papua New Guinea,15,20,Papua New Guinea,126,7,127,5,0,0,Netherlands,bat
+Sheikh Zayed Stadium,2019-10-25,Canada,Oman,23,18,Oman,144,9,145,2,0,0,Canada,bat
+Dubai International Cricket Stadium,2019-10-27,Netherlands,Scotland,15,13,Netherlands,131,6,130,8,0,0,Netherlands,field
+Dubai International Cricket Stadium,2019-10-29,Namibia,Oman,14,18,Namibia,161,7,107,10,0,0,Namibia,bat
+ICC Academy,2019-10-31,Oman,Scotland,18,13,Scotland,167,7,168,5,0,0,Oman,bat
+Dubai International Cricket Stadium,2019-11-01,Ireland,Netherlands,11,15,Netherlands,137,9,158,4,0,0,Ireland,field
+Dubai International Cricket Stadium,2019-11-01,Namibia,Papua New Guinea,14,20,Papua New Guinea,112,5,130,5,0,0,Papua New Guinea,bat
+Dubai International Cricket Stadium,2019-11-02,Ireland,Namibia,11,14,Ireland,135,10,108,10,0,0,Ireland,bat
+Dubai International Cricket Stadium,2019-11-02,Netherlands,Papua New Guinea,15,20,Netherlands,134,3,128,8,0,0,Papua New Guinea,bat
+The Village,2019-09-16,Netherlands,Scotland,15,13,Scotland,194,7,252,3,0,0,Netherlands,field
+The Village,2019-09-17,Ireland,Scotland,11,13,Ireland,194,6,193,7,0,0,Scotland,bat
+The Village,2019-09-18,Ireland,Netherlands,11,15,Netherlands,181,7,183,4,0,0,Ireland,bat
+The Village,2019-09-19,Netherlands,Scotland,15,13,Scotland,123,10,126,4,0,0,Netherlands,bat
+Holkar Cricket Stadium,2020-01-07,India,Sri Lanka,1,8,India,144,3,142,9,0,0,India,field
+Maharashtra Cricket Association Stadium,2020-01-10,India,Sri Lanka,1,8,India,201,6,123,10,0,0,Sri Lanka,field
+National Cricket Stadium,2020-01-15,West Indies,Ireland,6,11,Ireland,204,7,208,7,1,0,Ireland,bat
+Warner Park,2020-01-18,West Indies,Ireland,6,11,,16,1,147,9,1,0,West Indies,field
+Warner Park,2020-01-19,West Indies,Ireland,6,11,West Indies,140,1,138,10,1,0,West Indies,field
+Gaddafi Stadium,2020-01-24,Pakistan,Bangladesh,7,9,Pakistan,142,5,141,5,0,0,Bangladesh,bat
+Gaddafi Stadium,2020-01-25,Pakistan,Bangladesh,7,9,Pakistan,137,1,136,6,0,0,Bangladesh,bat
+Pallekele International Cricket Stadium,2020-03-04,Sri Lanka,West Indies,8,6,West Indies,171,10,196,4,0,1,West Indies,bat
+Pallekele International Cricket Stadium,2020-03-06,Sri Lanka,West Indies,8,6,West Indies,155,6,158,3,0,1,West Indies,field
+Greater Noida Sports Complex Ground,2020-03-06,Afghanistan,Ireland,10,11,Afghanistan,133,5,172,6,0,0,Ireland,bat
+Greater Noida Sports Complex Ground,2020-03-08,Afghanistan,Ireland,10,11,Afghanistan,184,4,163,6,0,0,Afghanistan,bat
+Greater Noida Sports Complex Ground,2020-03-10,Afghanistan,Ireland,10,11,,150,8,154,9,0,0,Ireland,bat
+Manuka Oval,2020-12-04,India,Australia,1,2,India,161,7,150,7,0,0,Australia,field
+Sydney Cricket Ground,2020-12-06,Australia,India,2,1,India,194,5,195,4,0,0,India,field
+Sydney Cricket Ground,2020-12-08,Australia,India,2,1,Australia,186,5,174,7,0,0,India,field
+Eden Park,2020-11-27,West Indies,New Zealand,6,5,New Zealand,180,7,179,5,1,0,New Zealand,field
+Bay Oval,2020-11-29,New Zealand,West Indies,5,6,New Zealand,238,3,166,9,0,1,West Indies,field
+Bay Oval,2020-11-30,West Indies,New Zealand,6,5,,25,1,0,0,1,0,New Zealand,field
+Eden Park,2020-12-18,Pakistan,New Zealand,7,5,New Zealand,153,9,156,5,0,0,Pakistan,bat
+Seddon Park,2020-12-20,Pakistan,New Zealand,7,5,New Zealand,163,6,164,1,0,0,Pakistan,bat
+McLean Park,2020-12-22,New Zealand,Pakistan,5,7,Pakistan,173,7,177,6,0,0,Pakistan,field
+Hagley Oval,2021-02-22,New Zealand,Australia,5,2,New Zealand,184,5,131,10,0,0,Australia,field
+University Oval,2021-02-25,New Zealand,Australia,5,2,New Zealand,219,7,215,8,0,0,Australia,field
+Westpac Stadium,2021-03-03,Australia,New Zealand,2,5,Australia,208,4,144,10,0,0,New Zealand,field
+Westpac Stadium,2021-03-05,Australia,New Zealand,2,5,Australia,156,6,106,10,0,0,Australia,bat
+Sky Stadium,2021-03-07,Australia,New Zealand,2,5,New Zealand,142,8,143,3,0,0,Australia,bat
+Seddon Park,2021-03-28,New Zealand,Bangladesh,5,9,New Zealand,210,3,144,8,0,0,New Zealand,bat
+McLean Park,2021-03-30,New Zealand,Bangladesh,5,9,New Zealand,173,5,142,7,0,0,Bangladesh,field
+Eden Park,2021-04-01,New Zealand,Bangladesh,5,9,New Zealand,141,4,76,10,0,0,Bangladesh,field
+Newlands,2020-11-27,South Africa,England,4,3,England,179,6,183,5,0,0,England,field
+Boland Park,2020-11-29,South Africa,England,4,3,England,146,6,147,6,0,0,England,field
+Newlands,2020-12-01,South Africa,England,4,3,England,191,3,192,1,0,0,South Africa,bat
+Trent Bridge,2021-07-16,Pakistan,England,7,3,Pakistan,232,6,201,10,0,0,England,field
+Headingley,2021-07-18,England,Pakistan,3,7,England,200,10,155,9,0,0,Pakistan,field
+Old Trafford,2021-07-20,Pakistan,England,7,3,England,154,6,155,7,0,0,Pakistan,bat
+Gaddafi Stadium,2021-02-11,Pakistan,South Africa,7,4,Pakistan,169,6,166,6,0,0,South Africa,field
+Gaddafi Stadium,2021-02-13,Pakistan,South Africa,7,4,South Africa,144,7,145,4,0,0,South Africa,field
+Gaddafi Stadium,2021-02-14,South Africa,Pakistan,4,7,Pakistan,164,8,169,6,0,0,Pakistan,field
+Narendra Modi Stadium,2021-03-12,India,England,1,3,England,124,7,130,2,0,0,England,field
+Narendra Modi Stadium,2021-03-14,England,India,3,1,India,164,6,166,3,0,0,India,field
+Narendra Modi Stadium,2021-03-16,India,England,1,3,England,156,6,158,2,0,0,England,field
+Narendra Modi Stadium,2021-03-18,India,England,1,3,India,185,8,177,8,0,0,England,field
+Narendra Modi Stadium,2021-03-20,India,England,1,3,India,224,2,188,8,0,0,England,field
+Sophia Gardens,2021-06-23,Sri Lanka,England,8,3,England,129,7,130,2,0,0,Sri Lanka,bat
+Sophia Gardens,2021-06-24,Sri Lanka,England,8,3,England,111,7,108,5,0,0,Sri Lanka,bat
+The Rose Bowl,2021-06-26,England,Sri Lanka,3,8,England,180,6,91,10,0,0,Sri Lanka,field
+The Wanderers Stadium,2021-04-10,South Africa,Pakistan,4,7,Pakistan,188,6,189,6,0,0,South Africa,bat
+The Wanderers Stadium,2021-04-12,Pakistan,South Africa,7,4,South Africa,140,9,141,4,0,0,Pakistan,bat
+SuperSport Park,2021-04-14,South Africa,Pakistan,4,7,Pakistan,203,5,205,1,0,0,Pakistan,field
+SuperSport Park,2021-04-16,South Africa,Pakistan,4,7,Pakistan,144,10,149,7,0,0,Pakistan,field
+The Village,2021-07-19,South Africa,Ireland,4,11,South Africa,165,7,132,9,0,0,Ireland,field
+Civil Service Cricket Club,2021-07-22,South Africa,Ireland,4,11,South Africa,159,7,117,10,0,0,South Africa,bat
+Civil Service Cricket Club,2021-07-24,South Africa,Ireland,4,11,South Africa,189,2,140,9,0,0,South Africa,bat
+Coolidge Cricket Ground,2021-03-03,Sri Lanka,West Indies,8,6,West Indies,131,9,134,6,0,1,West Indies,field
+Coolidge Cricket Ground,2021-03-05,Sri Lanka,West Indies,8,6,Sri Lanka,160,6,117,10,0,1,Sri Lanka,bat
+Coolidge Cricket Ground,2021-03-07,Sri Lanka,West Indies,8,6,West Indies,131,4,134,7,0,1,Sri Lanka,bat
+Kensington Oval,2022-01-22,England,West Indies,3,6,West Indies,103,10,104,1,0,1,West Indies,field
+Kensington Oval,2022-01-23,England,West Indies,3,6,England,171,8,170,8,0,1,West Indies,field
+Kensington Oval,2022-01-26,West Indies,England,6,3,West Indies,224,5,204,9,1,0,England,field
+Kensington Oval,2022-01-29,England,West Indies,3,6,England,193,6,159,5,0,1,West Indies,field
+Kensington Oval,2022-01-30,West Indies,England,6,3,West Indies,179,4,162,10,1,0,West Indies,bat
+Wanderers,2021-04-03,Uganda,Namibia,22,14,Namibia,134,5,135,3,0,0,Uganda,bat
+Wanderers Cricket Ground,2021-04-05,Namibia,Uganda,14,22,Namibia,134,6,65,5,0,0,Namibia,bat
+Wanderers Cricket Ground,2021-04-05,Namibia,Uganda,14,22,Namibia,189,3,124,10,0,0,Namibia,bat
+Tribhuvan University International Cricket Ground,2021-04-17,Netherlands,Nepal,15,17,Nepal,136,4,141,1,0,0,Nepal,field
+Tribhuvan University International Cricket Ground,2021-04-20,Nepal,Netherlands,17,15,Netherlands,206,6,209,7,0,0,Nepal,bat
+Tribhuvan University International Cricket Ground,2021-04-24,Nepal,Netherlands,17,15,Nepal,238,3,96,10,0,0,Netherlands,field
+R Premadasa Stadium,2021-07-25,India,Sri Lanka,1,8,India,164,5,126,10,0,0,Sri Lanka,field
+R Premadasa Stadium,2021-07-28,India,Sri Lanka,1,8,Sri Lanka,132,5,133,6,0,0,Sri Lanka,field
+R Premadasa Stadium,2021-07-29,India,Sri Lanka,1,8,Sri Lanka,81,8,82,3,0,0,India,bat
+National Cricket Stadium,2021-06-26,South Africa,West Indies,4,6,West Indies,160,6,161,2,0,1,West Indies,field
+National Cricket Stadium,2021-06-27,South Africa,West Indies,4,6,South Africa,166,7,150,9,0,1,West Indies,field
+National Cricket Stadium,2021-06-29,South Africa,West Indies,4,6,South Africa,167,8,166,7,0,1,West Indies,field
+National Cricket Stadium,2021-07-01,West Indies,South Africa,6,4,West Indies,167,6,146,9,1,0,South Africa,field
+National Cricket Stadium,2021-07-03,South Africa,West Indies,4,6,South Africa,168,4,143,9,0,1,South Africa,bat
+Daren Sammy National Cricket Stadium,2021-07-09,West Indies,Australia,6,2,West Indies,145,6,127,10,1,0,Australia,field
+Daren Sammy National Cricket Stadium,2021-07-10,West Indies,Australia,6,2,West Indies,196,4,140,10,1,0,Australia,field
+Daren Sammy National Cricket Stadium,2021-07-12,Australia,West Indies,2,6,West Indies,141,6,142,4,0,1,Australia,bat
+Daren Sammy National Cricket Stadium,2021-07-14,Australia,West Indies,2,6,Australia,189,6,185,6,0,1,Australia,bat
+Daren Sammy National Cricket Stadium,2021-07-16,West Indies,Australia,6,2,West Indies,199,8,183,9,1,0,West Indies,bat
+Kensington Oval,2021-07-28,West Indies,Pakistan,6,7,,85,6,0,0,1,0,Pakistan,field
+Providence Stadium,2021-07-31,Pakistan,West Indies,7,6,Pakistan,157,8,150,5,0,1,West Indies,field
+Providence Stadium,2021-08-01,West Indies,Pakistan,6,7,,15,0,0,0,1,0,West Indies,bat
+Providence Stadium,2021-08-03,West Indies,Pakistan,6,7,,30,0,0,0,1,0,Pakistan,field
+Sydney Cricket Ground,2022-02-11,Australia,Sri Lanka,2,8,Australia,149,9,122,8,0,0,Sri Lanka,field
+Sydney Cricket Ground,2022-02-13,Australia,Sri Lanka,2,8,,173,6,169,9,0,0,Sri Lanka,field
+Manuka Oval,2022-02-15,Sri Lanka,Australia,8,2,Australia,121,6,124,4,0,0,Australia,field
+Melbourne Cricket Ground,2022-02-18,Sri Lanka,Australia,8,2,Australia,139,8,143,4,0,0,Australia,field
+Melbourne Cricket Ground,2022-02-20,Australia,Sri Lanka,2,8,Sri Lanka,154,6,155,5,0,0,Australia,bat
+Shere Bangla National Stadium,2021-08-03,Bangladesh,Australia,9,2,Bangladesh,131,7,108,10,0,0,Australia,field
+Shere Bangla National Stadium,2021-08-04,Australia,Bangladesh,2,9,Bangladesh,121,7,123,5,0,0,Australia,bat
+Shere Bangla National Stadium,2021-08-06,Bangladesh,Australia,9,2,Bangladesh,127,9,117,4,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2021-08-07,Bangladesh,Australia,9,2,Australia,104,9,105,7,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2021-08-09,Bangladesh,Australia,9,2,Bangladesh,122,8,62,10,0,0,Bangladesh,bat
+R Premadasa Stadium,2021-09-10,South Africa,Sri Lanka,4,8,South Africa,163,5,135,6,0,0,South Africa,bat
+R Premadasa Stadium,2021-09-12,Sri Lanka,South Africa,8,4,South Africa,103,10,105,1,0,0,Sri Lanka,bat
+R Premadasa Stadium,2021-09-14,Sri Lanka,South Africa,8,4,South Africa,120,8,121,0,0,0,Sri Lanka,bat
+Shere Bangla National Stadium,2021-09-01,New Zealand,Bangladesh,5,9,Bangladesh,60,10,62,3,0,0,New Zealand,bat
+Shere Bangla National Stadium,2021-09-03,Bangladesh,New Zealand,9,5,Bangladesh,141,6,137,5,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2021-09-05,New Zealand,Bangladesh,5,9,New Zealand,128,5,76,10,0,0,New Zealand,bat
+Shere Bangla National Stadium,2021-09-08,New Zealand,Bangladesh,5,9,Bangladesh,93,10,96,4,0,0,New Zealand,bat
+Shere Bangla National Stadium,2021-09-10,New Zealand,Bangladesh,5,9,New Zealand,161,5,134,8,0,0,New Zealand,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2021-10-17,Papua New Guinea,Oman,20,18,Oman,129,9,131,0,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2021-10-17,Scotland,Bangladesh,13,9,Scotland,140,9,134,7,0,0,Bangladesh,field
+Zayed Cricket Stadium,2021-10-18,Netherlands,Ireland,15,11,Ireland,106,10,107,3,0,0,Netherlands,bat
+Zayed Cricket Stadium,2021-10-18,Namibia,Sri Lanka,14,8,Sri Lanka,96,10,100,3,0,0,Sri Lanka,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2021-10-19,Scotland,Papua New Guinea,13,20,Scotland,165,9,148,10,0,0,Scotland,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2021-10-19,Bangladesh,Oman,9,18,Bangladesh,153,10,127,9,0,0,Bangladesh,bat
+Zayed Cricket Stadium,2021-10-20,Netherlands,Namibia,15,14,Namibia,164,4,166,4,0,0,Namibia,field
+Zayed Cricket Stadium,2021-10-20,Sri Lanka,Ireland,8,11,Sri Lanka,171,7,101,10,0,0,Ireland,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2021-10-21,Bangladesh,Papua New Guinea,9,20,Bangladesh,181,7,97,10,0,0,Bangladesh,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2021-10-21,Oman,Scotland,18,13,Scotland,122,10,123,2,0,0,Oman,bat
+Sharjah Cricket Stadium,2021-10-22,Ireland,Namibia,11,14,Namibia,125,8,126,2,0,0,Ireland,bat
+Sharjah Cricket Stadium,2021-10-22,Netherlands,Sri Lanka,15,8,Sri Lanka,44,10,45,2,0,0,Sri Lanka,field
+Zayed Cricket Stadium,2021-10-23,South Africa,Australia,4,2,Australia,118,9,121,5,0,0,Australia,field
+Dubai International Cricket Stadium,2021-10-23,West Indies,England,6,3,England,55,10,56,4,1,0,England,field
+Sharjah Cricket Stadium,2021-10-24,Bangladesh,Sri Lanka,9,8,Sri Lanka,171,4,172,5,0,0,Sri Lanka,field
+Dubai International Cricket Stadium,2021-10-24,India,Pakistan,1,7,Pakistan,151,7,152,0,0,0,Pakistan,field
+Sharjah Cricket Stadium,2021-10-25,Afghanistan,Scotland,10,13,Afghanistan,190,4,60,10,0,0,Afghanistan,bat
+Dubai International Cricket Stadium,2021-10-26,West Indies,South Africa,6,4,South Africa,143,8,144,2,1,0,South Africa,field
+Sharjah Cricket Stadium,2021-10-26,New Zealand,Pakistan,5,7,Pakistan,134,8,135,5,0,0,Pakistan,field
+Zayed Cricket Stadium,2021-10-27,Bangladesh,England,9,3,England,124,9,126,2,0,0,Bangladesh,bat
+Zayed Cricket Stadium,2021-10-27,Scotland,Namibia,13,14,Namibia,109,8,115,6,0,0,Namibia,field
+Dubai International Cricket Stadium,2021-10-28,Sri Lanka,Australia,8,2,Australia,154,6,155,3,0,0,Australia,field
+Sharjah Cricket Stadium,2021-10-29,West Indies,Bangladesh,6,9,West Indies,142,7,139,5,1,0,Bangladesh,field
+Dubai International Cricket Stadium,2021-10-29,Afghanistan,Pakistan,10,7,Pakistan,147,6,148,5,0,0,Afghanistan,bat
+Sharjah Cricket Stadium,2021-10-30,Sri Lanka,South Africa,8,4,South Africa,142,10,146,6,0,0,South Africa,field
+Dubai International Cricket Stadium,2021-10-30,Australia,England,2,3,England,125,10,126,2,0,0,England,field
+Zayed Cricket Stadium,2021-10-31,Afghanistan,Namibia,10,14,Afghanistan,160,5,98,9,0,0,Afghanistan,bat
+Dubai International Cricket Stadium,2021-10-31,India,New Zealand,1,5,New Zealand,110,7,111,2,0,0,New Zealand,field
+Sharjah Cricket Stadium,2021-11-01,England,Sri Lanka,3,8,England,163,4,137,10,0,0,Sri Lanka,field
+Zayed Cricket Stadium,2021-11-02,Bangladesh,South Africa,9,4,South Africa,84,10,86,4,0,0,South Africa,field
+Zayed Cricket Stadium,2021-11-02,Pakistan,Namibia,7,14,Pakistan,189,2,144,5,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2021-11-03,New Zealand,Scotland,5,13,New Zealand,172,5,156,5,0,0,Scotland,field
+Zayed Cricket Stadium,2021-11-03,India,Afghanistan,1,10,India,210,2,144,7,0,0,Afghanistan,field
+Dubai International Cricket Stadium,2021-11-04,Bangladesh,Australia,9,2,Australia,73,10,78,2,0,0,Australia,field
+Zayed Cricket Stadium,2021-11-04,Sri Lanka,West Indies,8,6,Sri Lanka,189,3,169,8,0,1,West Indies,field
+Sharjah Cricket Stadium,2021-11-05,New Zealand,Namibia,5,14,New Zealand,163,4,111,7,0,0,Namibia,field
+Dubai International Cricket Stadium,2021-11-05,Scotland,India,13,1,India,85,10,89,2,0,0,India,field
+Zayed Cricket Stadium,2021-11-06,West Indies,Australia,6,2,Australia,157,7,161,2,1,0,Australia,field
+Sharjah Cricket Stadium,2021-11-06,South Africa,England,4,3,South Africa,189,2,179,9,0,0,England,field
+Zayed Cricket Stadium,2021-11-07,Afghanistan,New Zealand,10,5,New Zealand,124,8,125,2,0,0,Afghanistan,bat
+Sharjah Cricket Stadium,2021-11-07,Pakistan,Scotland,7,13,Pakistan,189,4,117,6,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2021-11-08,Namibia,India,14,1,India,132,8,136,1,0,0,India,field
+Zayed Cricket Stadium,2021-11-10,England,New Zealand,3,5,New Zealand,166,4,167,5,0,0,New Zealand,field
+Dubai International Cricket Stadium,2021-11-11,Pakistan,Australia,7,2,Australia,176,4,177,5,0,0,Australia,field
+Dubai International Cricket Stadium,2021-11-14,New Zealand,Australia,5,2,Australia,172,4,173,2,0,0,Australia,field
+The Rose Bowl,2022-07-07,India,England,1,3,India,198,8,148,10,0,0,India,bat
+Edgbaston,2022-07-09,India,England,1,3,India,170,8,121,10,0,0,England,field
+Trent Bridge,2022-07-10,England,India,3,1,England,215,7,198,9,0,0,England,bat
+County Ground,2022-07-27,England,South Africa,3,4,England,234,6,193,8,0,0,South Africa,field
+Sophia Gardens,2022-07-28,South Africa,England,4,3,South Africa,207,3,149,10,0,0,England,field
+The Rose Bowl,2022-07-31,South Africa,England,4,3,South Africa,191,5,101,10,0,0,England,field
+Shere Bangla National Stadium,2021-11-19,Bangladesh,Pakistan,9,7,Pakistan,127,7,132,6,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2021-11-20,Bangladesh,Pakistan,9,7,Pakistan,108,7,109,2,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2021-11-22,Bangladesh,Pakistan,9,7,Pakistan,124,7,127,5,0,0,Bangladesh,bat
+Sawai Mansingh Stadium,2021-11-17,New Zealand,India,5,1,India,164,6,166,5,0,0,India,field
+JSCA International Stadium Complex,2021-11-19,New Zealand,India,5,1,India,153,6,155,3,0,0,India,field
+Eden Gardens,2021-11-21,India,New Zealand,1,5,India,184,7,111,10,0,0,India,bat
+Eden Gardens,2022-02-16,West Indies,India,6,1,India,157,7,162,4,1,0,India,field
+Eden Gardens,2022-02-18,India,West Indies,1,6,India,186,5,178,3,0,1,West Indies,field
+Eden Gardens,2022-02-20,India,West Indies,1,6,India,184,5,167,9,0,1,West Indies,field
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2022-02-24,India,Sri Lanka,1,8,India,199,2,137,6,0,0,Sri Lanka,field
+Himachal Pradesh Cricket Association Stadium,2022-02-26,Sri Lanka,India,8,1,India,183,5,186,3,0,0,India,field
+Himachal Pradesh Cricket Association Stadium,2022-02-27,Sri Lanka,India,8,1,India,146,5,148,4,0,0,Sri Lanka,bat
+Arun Jaitley Stadium,2022-06-09,India,South Africa,1,4,South Africa,211,4,212,3,0,0,South Africa,field
+Barabati Stadium,2022-06-12,India,South Africa,1,4,South Africa,148,6,149,6,0,0,South Africa,field
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2022-06-14,India,South Africa,1,4,India,179,5,131,10,0,0,South Africa,field
+Saurashtra Cricket Association Stadium,2022-06-17,India,South Africa,1,4,India,169,6,87,10,0,0,South Africa,field
+M Chinnaswamy Stadium,2022-06-19,India,South Africa,1,4,,28,2,0,0,0,0,South Africa,field
+ICC Academy,2021-10-09,Scotland,Namibia,13,14,Namibia,137,8,138,5,0,0,Namibia,field
+ICC Academy,2021-10-10,Namibia,Papua New Guinea,14,20,Namibia,174,6,160,6,0,0,Papua New Guinea,field
+ICC Academy,2021-10-08,Papua New Guinea,Scotland,20,13,Scotland,154,5,156,3,0,0,Papua New Guinea,bat
+Coolidge Cricket Ground,2021-11-10,Canada,United States of America,23,19,,156,5,164,9,0,1,Canada,bat
+National Stadium,2021-12-13,Pakistan,West Indies,7,6,Pakistan,200,6,137,10,0,1,West Indies,field
+National Stadium,2021-12-14,Pakistan,West Indies,7,6,Pakistan,172,8,163,10,0,1,Pakistan,bat
+National Stadium,2021-12-16,West Indies,Pakistan,6,7,Pakistan,207,3,208,3,1,0,West Indies,bat
+Gaddafi Stadium,2022-04-05,Pakistan,Australia,7,2,Australia,162,8,163,7,0,0,Australia,field
+Central Broward Regional Park Stadium Turf Ground,2021-12-22,United States of America,Ireland,19,11,United States of America,188,6,162,6,1,0,United States of America,bat
+Central Broward Regional Park Stadium Turf Ground,2021-12-23,Ireland,United States of America,11,19,Ireland,150,10,141,7,0,1,United States of America,field
+GMHBA Stadium,2022-10-16,Namibia,Sri Lanka,14,8,Namibia,163,7,108,10,0,0,Sri Lanka,field
+Bellerive Oval,2022-10-17,Scotland,West Indies,13,6,Scotland,160,5,118,10,0,1,West Indies,field
+GMHBA Stadium,2022-10-18,Namibia,Netherlands,14,15,Netherlands,121,6,122,5,0,0,Namibia,bat
+Bellerive Oval,2022-10-19,Scotland,Ireland,13,11,Ireland,176,5,180,4,0,0,Scotland,bat
+GMHBA Stadium,2022-10-20,Sri Lanka,Netherlands,8,15,Sri Lanka,162,6,146,9,0,0,Sri Lanka,bat
+Bellerive Oval,2022-10-21,West Indies,Ireland,6,11,Ireland,146,5,150,1,1,0,West Indies,bat
+Sydney Cricket Ground,2022-10-22,New Zealand,Australia,5,2,New Zealand,200,3,111,10,0,0,Australia,field
+Perth Stadium,2022-10-22,Afghanistan,England,10,3,England,112,10,113,5,0,0,England,field
+Bellerive Oval,2022-10-23,Ireland,Sri Lanka,11,8,Sri Lanka,128,8,133,1,0,0,Ireland,bat
+Melbourne Cricket Ground,2022-10-23,Pakistan,India,7,1,India,159,8,160,6,0,0,India,field
+Bellerive Oval,2022-10-24,Bangladesh,Netherlands,9,15,Bangladesh,144,8,135,10,0,0,Netherlands,field
+Perth Stadium,2022-10-25,Sri Lanka,Australia,8,2,Australia,157,6,158,3,0,0,Australia,field
+Melbourne Cricket Ground,2022-10-26,Ireland,England,11,3,Ireland,157,10,105,5,0,0,England,field
+Sydney Cricket Ground,2022-10-27,South Africa,Bangladesh,4,9,South Africa,205,5,101,10,0,0,South Africa,bat
+Sydney Cricket Ground,2022-10-27,India,Netherlands,1,15,India,179,2,123,9,0,0,India,bat
+Sydney Cricket Ground,2022-10-29,New Zealand,Sri Lanka,5,8,New Zealand,167,7,102,10,0,0,New Zealand,bat
+Perth Stadium,2022-10-30,Netherlands,Pakistan,15,7,Pakistan,91,10,95,4,0,0,Netherlands,bat
+Perth Stadium,2022-10-30,India,South Africa,1,4,South Africa,133,9,137,5,0,0,India,bat
+Brisbane Cricket Ground,2022-10-31,Australia,Ireland,2,11,Australia,179,5,137,10,0,0,Ireland,field
+Brisbane Cricket Ground,2022-11-01,Afghanistan,Sri Lanka,10,8,Sri Lanka,144,8,148,4,0,0,Afghanistan,bat
+Brisbane Cricket Ground,2022-11-01,England,New Zealand,3,5,England,179,6,159,6,0,0,England,bat
+Adelaide Oval,2022-11-02,India,Bangladesh,1,9,India,184,6,145,6,0,0,Bangladesh,field
+Sydney Cricket Ground,2022-11-03,Pakistan,South Africa,7,4,Pakistan,185,9,108,9,0,0,Pakistan,bat
+Adelaide Oval,2022-11-04,New Zealand,Ireland,5,11,New Zealand,185,6,150,9,0,0,Ireland,field
+Adelaide Oval,2022-11-04,Australia,Afghanistan,2,10,Australia,168,8,164,7,0,0,Afghanistan,field
+Sydney Cricket Ground,2022-11-05,Sri Lanka,England,8,3,England,141,8,144,6,0,0,Sri Lanka,bat
+Adelaide Oval,2022-11-06,Netherlands,South Africa,15,4,Netherlands,158,4,145,8,0,0,South Africa,field
+Adelaide Oval,2022-11-06,Bangladesh,Pakistan,9,7,Pakistan,127,8,128,5,0,0,Bangladesh,bat
+Sydney Cricket Ground,2022-11-09,New Zealand,Pakistan,5,7,Pakistan,152,4,153,3,0,0,New Zealand,bat
+Adelaide Oval,2022-11-10,India,England,1,3,England,168,6,170,0,0,0,England,field
+Melbourne Cricket Ground,2022-11-13,Pakistan,England,7,3,England,137,8,138,5,0,0,England,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-02-18,Nepal,Oman,17,18,Nepal,117,8,78,10,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-02-19,Canada,Oman,23,18,Oman,155,6,159,1,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-02-21,Canada,Nepal,23,17,Nepal,80,10,81,2,0,0,Canada,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-02-22,Ireland,Oman,11,18,Ireland,165,7,109,10,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-02-24,Oman,Nepal,18,17,Nepal,87,9,90,1,0,0,Oman,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-02-11,Oman,Nepal,18,17,Nepal,135,6,137,4,0,0,Nepal,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-02-12,Oman,Ireland,18,11,Ireland,137,10,140,1,0,0,Ireland,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-02-14,Ireland,Nepal,11,17,Ireland,127,10,111,9,0,0,Nepal,field
+Shere Bangla National Stadium,2022-03-03,Bangladesh,Afghanistan,9,10,Bangladesh,155,8,94,10,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2022-03-05,Bangladesh,Afghanistan,9,10,Afghanistan,115,9,121,2,0,0,Bangladesh,bat
+The Village,2022-06-26,Ireland,India,11,1,India,108,4,111,3,0,0,India,field
+The Village,2022-06-28,India,Ireland,1,11,India,225,7,221,5,0,0,India,bat
+Civil Service Cricket Club,2022-07-18,New Zealand,Ireland,5,11,New Zealand,173,8,142,10,0,0,Ireland,field
+Civil Service Cricket Club,2022-07-20,New Zealand,Ireland,5,11,New Zealand,179,4,91,10,0,0,Ireland,field
+Civil Service Cricket Club,2022-07-22,Ireland,New Zealand,11,5,New Zealand,174,6,180,4,0,0,Ireland,bat
+County Ground,2022-08-03,South Africa,Ireland,4,11,South Africa,211,5,190,9,0,0,South Africa,bat
+County Ground,2022-08-05,South Africa,Ireland,4,11,South Africa,182,6,138,10,0,0,Ireland,field
+Tribhuvan University International Cricket Ground,2022-03-28,Nepal,Papua New Guinea,17,20,Nepal,183,9,168,10,0,0,Papua New Guinea,field
+Tribhuvan University International Cricket Ground,2022-03-31,Nepal,Papua New Guinea,17,20,Nepal,203,7,166,10,0,0,Papua New Guinea,field
+Tribhuvan University International Cricket Ground,2022-04-04,Nepal,Papua New Guinea,17,20,Nepal,168,6,118,10,0,0,Papua New Guinea,field
+Civil Service Cricket Club,2022-08-09,Afghanistan,Ireland,10,11,Ireland,168,7,171,3,0,0,Afghanistan,bat
+Civil Service Cricket Club,2022-08-11,Afghanistan,Ireland,10,11,Ireland,122,8,125,5,0,0,Afghanistan,bat
+Civil Service Cricket Club,2022-08-12,Afghanistan,Ireland,10,11,Afghanistan,189,5,167,9,0,0,Ireland,field
+Civil Service Cricket Club,2022-08-15,Afghanistan,Ireland,10,11,Afghanistan,132,6,105,10,0,0,Ireland,field
+Civil Service Cricket Club,2022-08-17,Afghanistan,Ireland,10,11,Ireland,95,5,56,3,0,0,Ireland,field
+R Premadasa Stadium,2022-06-07,Sri Lanka,Australia,8,2,Australia,128,10,134,0,0,0,Australia,field
+R Premadasa Stadium,2022-06-08,Sri Lanka,Australia,8,2,Australia,124,9,126,7,0,0,Australia,field
+Pallekele International Cricket Stadium,2022-06-11,Australia,Sri Lanka,2,8,Sri Lanka,176,5,177,6,0,0,Australia,bat
+Grange Cricket Club Ground,2022-07-27,New Zealand,Scotland,5,13,New Zealand,225,5,157,8,0,0,Scotland,field
+Grange Cricket Club Ground,2022-07-29,New Zealand,Scotland,5,13,New Zealand,254,5,152,9,0,0,New Zealand,bat
+United Cricket Club Ground,2022-04-08,Uganda,Namibia,22,14,Namibia,127,5,128,2,0,0,Namibia,field
+United Cricket Club Ground,2022-04-09,Namibia,Uganda,14,22,Uganda,177,4,178,3,0,0,Uganda,field
+United Cricket Club Ground,2022-04-10,Namibia,Uganda,14,22,Namibia,185,7,133,10,0,0,Uganda,field
+Sportpark Westvliet,2022-08-04,New Zealand,Netherlands,5,15,New Zealand,148,7,132,10,0,0,New Zealand,bat
+Sportpark Westvliet,2022-08-05,Netherlands,New Zealand,15,5,New Zealand,147,4,149,2,0,0,Netherlands,bat
+Windsor Park,2022-07-02,Bangladesh,West Indies,9,6,,105,8,0,0,0,1,West Indies,field
+Windsor Park,2022-07-03,West Indies,Bangladesh,6,9,West Indies,193,5,158,6,1,0,West Indies,bat
+Providence Stadium,2022-07-07,Bangladesh,West Indies,9,6,West Indies,163,5,169,5,0,1,Bangladesh,bat
+Carrara Oval,2022-10-05,West Indies,Australia,6,2,Australia,145,9,146,7,1,0,Australia,field
+Brisbane Cricket Ground,2022-10-07,Australia,West Indies,2,6,Australia,178,7,147,8,0,1,West Indies,field
+Perth Stadium,2022-10-09,England,Australia,3,2,England,208,6,200,9,0,0,Australia,field
+Manuka Oval,2022-10-12,England,Australia,3,2,England,178,7,170,6,0,0,Australia,field
+Manuka Oval,2022-10-14,England,Australia,3,2,,112,2,30,3,0,0,Australia,field
+Brian Lara Stadium,2022-07-29,India,West Indies,1,6,India,190,6,122,8,0,1,West Indies,field
+Warner Park,2022-08-01,India,West Indies,1,6,West Indies,138,10,141,5,0,1,West Indies,field
+Warner Park,2022-08-02,West Indies,India,6,1,India,164,5,165,4,1,0,India,field
+Central Broward Regional Park Stadium Turf Ground,2022-08-06,India,West Indies,1,6,India,191,5,132,10,0,1,West Indies,field
+Central Broward Regional Park Stadium Turf Ground,2022-08-07,India,West Indies,1,6,India,188,7,100,10,0,1,India,bat
+Sabina Park,2022-08-10,New Zealand,West Indies,5,6,New Zealand,185,5,172,7,0,1,West Indies,field
+Sabina Park,2022-08-12,New Zealand,West Indies,5,6,New Zealand,215,5,125,9,0,1,New Zealand,bat
+Sabina Park,2022-08-14,New Zealand,West Indies,5,6,West Indies,145,7,150,2,0,1,New Zealand,bat
+Queens Sports Club,2022-07-11,Netherlands,Papua New Guinea,15,20,Netherlands,163,7,111,10,0,0,Netherlands,bat
+Bulawayo Athletic Club,2022-07-12,Uganda,Papua New Guinea,22,20,Papua New Guinea,160,4,161,2,0,0,Papua New Guinea,field
+Queens Sports Club,2022-07-14,Netherlands,Uganda,15,22,Netherlands,187,3,90,9,0,0,Uganda,field
+Bulawayo Athletic Club,2022-07-15,United States of America,Netherlands,19,15,Netherlands,138,10,139,3,1,0,United States of America,bat
+Bulawayo Athletic Club,2022-07-17,Papua New Guinea,United States of America,20,19,Papua New Guinea,97,10,92,10,0,1,United States of America,field
+Bay Oval,2022-11-20,India,New Zealand,1,5,India,191,6,126,10,0,0,New Zealand,field
+McLean Park,2022-11-22,New Zealand,India,5,1,,160,10,75,4,0,0,New Zealand,bat
+Hagley Oval,2022-10-07,Pakistan,Bangladesh,7,9,Pakistan,167,5,146,8,0,0,Bangladesh,field
+Hagley Oval,2022-10-08,New Zealand,Pakistan,5,7,Pakistan,147,8,149,4,0,0,New Zealand,bat
+Hagley Oval,2022-10-09,Bangladesh,New Zealand,9,5,New Zealand,137,8,142,2,0,0,New Zealand,field
+Hagley Oval,2022-10-11,Pakistan,New Zealand,7,5,New Zealand,130,7,131,1,0,0,Pakistan,bat
+Hagley Oval,2022-10-12,New Zealand,Bangladesh,5,9,New Zealand,208,5,160,7,0,0,Bangladesh,field
+Hagley Oval,2022-10-13,Bangladesh,Pakistan,9,7,Pakistan,173,6,177,3,0,0,Bangladesh,bat
+Hagley Oval,2022-10-14,New Zealand,Pakistan,5,7,Pakistan,163,7,168,5,0,0,Pakistan,field
+Eden Park,2023-04-02,Sri Lanka,New Zealand,8,5,,208,5,204,10,0,0,New Zealand,field
+University Oval,2023-04-05,Sri Lanka,New Zealand,8,5,New Zealand,141,10,146,1,0,0,New Zealand,field
+John Davies Oval,2023-04-08,Sri Lanka,New Zealand,8,5,New Zealand,182,6,183,6,0,0,New Zealand,field
+National Stadium,2022-09-20,Pakistan,England,7,3,England,158,7,160,4,0,0,England,field
+National Stadium,2022-09-22,England,Pakistan,3,7,Pakistan,199,5,203,0,0,0,England,bat
+National Stadium,2022-09-23,England,Pakistan,3,7,England,221,3,158,8,0,0,Pakistan,field
+National Stadium,2022-09-25,Pakistan,England,7,3,Pakistan,166,4,163,10,0,0,England,field
+Gaddafi Stadium,2022-09-28,Pakistan,England,7,3,Pakistan,145,10,139,7,0,0,England,field
+Gaddafi Stadium,2022-09-30,Pakistan,England,7,3,England,169,6,170,2,0,0,England,field
+Gaddafi Stadium,2022-10-02,England,Pakistan,3,7,England,209,3,142,8,0,0,Pakistan,field
+Dubai International Cricket Stadium,2022-08-27,Sri Lanka,Afghanistan,8,10,Afghanistan,105,10,106,2,0,0,Afghanistan,field
+Dubai International Cricket Stadium,2022-08-28,Pakistan,India,7,1,India,147,10,148,5,0,0,India,field
+Sharjah Cricket Stadium,2022-08-30,Bangladesh,Afghanistan,9,10,Afghanistan,127,7,131,3,0,0,Bangladesh,bat
+Dubai International Cricket Stadium,2022-09-01,Bangladesh,Sri Lanka,9,8,Sri Lanka,183,7,184,8,0,0,Sri Lanka,field
+Sharjah Cricket Stadium,2022-09-03,Afghanistan,Sri Lanka,10,8,Sri Lanka,175,6,179,6,0,0,Sri Lanka,field
+Dubai International Cricket Stadium,2022-09-04,India,Pakistan,1,7,Pakistan,181,7,182,5,0,0,Pakistan,field
+Dubai International Cricket Stadium,2022-09-06,India,Sri Lanka,1,8,Sri Lanka,173,8,174,4,0,0,Sri Lanka,field
+Sharjah Cricket Stadium,2022-09-07,Afghanistan,Pakistan,10,7,Pakistan,129,6,131,9,0,0,Pakistan,field
+Dubai International Cricket Stadium,2022-09-08,India,Afghanistan,1,10,India,212,2,111,8,0,0,Afghanistan,field
+Dubai International Cricket Stadium,2022-09-09,Pakistan,Sri Lanka,7,8,Sri Lanka,121,10,124,5,0,0,Sri Lanka,field
+Dubai International Cricket Stadium,2022-09-11,Sri Lanka,Pakistan,8,7,Sri Lanka,170,6,147,10,0,0,Pakistan,field
+Punjab Cricket Association IS Bindra Stadium,2022-09-20,India,Australia,1,2,Australia,208,6,211,6,0,0,Australia,field
+Vidarbha Cricket Association Stadium,2022-09-23,Australia,India,2,1,India,90,5,92,4,0,0,India,field
+Rajiv Gandhi International Stadium,2022-09-25,Australia,India,2,1,India,186,7,187,4,0,0,India,field
+Greenfield International Stadium,2022-09-28,South Africa,India,4,1,India,106,8,110,2,0,0,India,field
+Barsapara Cricket Stadium,2022-10-02,India,South Africa,1,4,India,237,3,221,3,0,0,South Africa,field
+Holkar Cricket Stadium,2022-10-04,South Africa,India,4,1,South Africa,227,3,178,10,0,0,India,field
+Riverside Ground,2023-08-30,New Zealand,England,5,3,England,139,9,143,3,0,0,England,field
+Old Trafford,2023-09-01,England,New Zealand,3,5,England,198,4,103,10,0,0,England,bat
+Edgbaston,2023-09-03,New Zealand,England,5,3,New Zealand,202,5,128,10,0,0,New Zealand,bat
+Trent Bridge,2023-09-05,England,New Zealand,3,5,New Zealand,175,8,179,4,0,0,England,bat
+SuperSport Park,2023-03-25,South Africa,West Indies,4,6,West Indies,131,8,132,7,0,1,West Indies,field
+SuperSport Park,2023-03-26,West Indies,South Africa,6,4,South Africa,258,5,259,4,1,0,South Africa,field
+The Wanderers Stadium,2023-03-28,West Indies,South Africa,6,4,West Indies,220,8,213,6,1,0,South Africa,field
+Gaddafi Stadium,2023-04-14,Pakistan,New Zealand,7,5,Pakistan,182,10,94,10,0,0,Pakistan,bat
+Gaddafi Stadium,2023-04-15,Pakistan,New Zealand,7,5,Pakistan,192,4,154,7,0,0,Pakistan,bat
+Gaddafi Stadium,2023-04-17,New Zealand,Pakistan,5,7,New Zealand,163,5,159,10,0,0,New Zealand,bat
+Rawalpindi Cricket Stadium,2023-04-20,New Zealand,Pakistan,5,7,,164,5,0,0,0,0,Pakistan,field
+Rawalpindi Cricket Stadium,2023-04-24,Pakistan,New Zealand,7,5,New Zealand,193,5,194,4,0,0,New Zealand,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-11-16,Canada,Oman,23,18,Canada,191,2,190,6,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-11-20,Oman,Canada,18,23,Canada,169,7,170,7,0,0,Canada,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-11-21,Oman,Canada,18,23,Canada,137,10,139,2,0,0,Canada,field
+Wankhede Stadium,2023-01-03,India,Sri Lanka,1,8,India,162,5,160,10,0,0,Sri Lanka,field
+Maharashtra Cricket Association Stadium,2023-01-05,Sri Lanka,India,8,1,Sri Lanka,206,6,190,8,0,0,India,field
+Saurashtra Cricket Association Stadium,2023-01-07,India,Sri Lanka,1,8,India,228,5,137,10,0,0,India,bat
+JSCA International Stadium Complex,2023-01-27,New Zealand,India,5,1,New Zealand,176,6,155,9,0,0,India,field
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2023-01-29,New Zealand,India,5,1,India,99,8,101,4,0,0,New Zealand,bat
+Narendra Modi Stadium,2023-02-01,India,New Zealand,1,5,India,234,4,66,10,0,0,India,bat
+Zahur Ahmed Chowdhury Stadium,2023-03-09,England,Bangladesh,3,9,Bangladesh,156,6,158,4,0,0,Bangladesh,field
+Shere Bangla National Stadium,2023-03-12,England,Bangladesh,3,9,Bangladesh,117,10,120,6,0,0,Bangladesh,field
+Shere Bangla National Stadium,2023-03-14,Bangladesh,England,9,3,Bangladesh,158,2,142,6,0,0,England,field
+Zahur Ahmed Chowdhury Stadium,2023-03-27,Bangladesh,Ireland,9,11,Bangladesh,207,5,81,5,0,0,Ireland,field
+Zahur Ahmed Chowdhury Stadium,2023-03-29,Bangladesh,Ireland,9,11,Bangladesh,202,3,125,9,0,0,Ireland,field
+Zahur Ahmed Chowdhury Stadium,2023-03-31,Bangladesh,Ireland,9,11,Ireland,124,10,126,3,0,0,Bangladesh,bat
+Sharjah Cricket Stadium,2023-03-24,Pakistan,Afghanistan,7,10,Afghanistan,92,9,98,4,0,0,Pakistan,bat
+Sharjah Cricket Stadium,2023-03-26,Pakistan,Afghanistan,7,10,Afghanistan,130,6,133,3,0,0,Pakistan,bat
+Sharjah Cricket Stadium,2023-03-27,Pakistan,Afghanistan,7,10,Pakistan,182,7,116,11,0,0,Afghanistan,field
+Kingsmead,2023-08-30,Australia,South Africa,2,4,Australia,226,6,115,10,0,0,South Africa,field
+Kingsmead,2023-09-01,South Africa,Australia,4,2,Australia,164,8,168,2,0,0,Australia,field
+Kingsmead,2023-09-03,South Africa,Australia,4,2,Australia,190,8,191,5,0,0,South Africa,bat
+Kensington Oval,2023-12-12,England,West Indies,3,6,West Indies,171,10,172,6,0,1,West Indies,field
+National Cricket Stadium,2023-12-14,West Indies,England,6,3,West Indies,176,7,166,7,1,0,England,field
+National Cricket Stadium,2023-12-16,West Indies,England,6,3,England,222,6,226,3,1,0,England,field
+Brian Lara Stadium,2023-12-19,England,West Indies,3,6,England,267,3,192,10,0,1,West Indies,field
+Brian Lara Stadium,2023-12-21,England,West Indies,3,6,West Indies,132,10,133,6,0,1,West Indies,field
+Bellerive Oval,2024-02-09,Australia,West Indies,2,6,Australia,213,7,202,8,0,1,West Indies,field
+Adelaide Oval,2024-02-11,Australia,West Indies,2,6,Australia,241,4,207,9,0,1,West Indies,field
+Perth Stadium,2024-02-13,West Indies,Australia,6,2,West Indies,220,6,183,5,1,0,West Indies,bat
+Sylhet International Cricket Stadium,2023-07-14,Afghanistan,Bangladesh,10,9,Bangladesh,154,7,157,8,0,0,Bangladesh,field
+Sylhet International Cricket Stadium,2023-07-16,Afghanistan,Bangladesh,10,9,Bangladesh,116,7,119,4,0,0,Bangladesh,field
+Brian Lara Stadium,2023-08-03,West Indies,India,6,1,West Indies,149,6,145,9,1,0,West Indies,bat
+Providence Stadium,2023-08-06,India,West Indies,1,6,West Indies,152,7,155,8,0,1,India,bat
+Providence Stadium,2023-08-08,West Indies,India,6,1,India,159,5,164,3,1,0,West Indies,bat
+Central Broward Regional Park Stadium Turf Ground,2023-08-12,West Indies,India,6,1,India,178,8,179,1,1,0,West Indies,bat
+Central Broward Regional Park Stadium Turf Ground,2023-08-13,India,West Indies,1,6,West Indies,165,9,171,2,0,1,India,bat
+Grange Cricket Club Ground,2023-07-28,Scotland,Ireland,13,11,Scotland,213,6,205,9,0,0,Ireland,field
+Malahide,2023-08-18,Ireland,India,11,1,India,139,7,47,2,0,0,India,field
+Malahide,2023-08-20,India,Ireland,1,11,India,185,5,152,8,0,0,Ireland,field
+St George's Park,2023-12-12,India,South Africa,1,4,South Africa,180,7,154,5,0,0,South Africa,field
+The Wanderers Stadium,2023-12-14,India,South Africa,1,4,India,201,7,95,10,0,0,South Africa,field
+McLean Park,2023-12-27,New Zealand,Bangladesh,5,9,Bangladesh,134,9,137,5,0,0,Bangladesh,field
+Bay Oval,2023-12-29,New Zealand,Bangladesh,5,9,,72,2,0,0,0,0,Bangladesh,field
+Bay Oval,2023-12-31,Bangladesh,New Zealand,9,5,New Zealand,110,10,95,5,0,0,New Zealand,field
+Eden Park,2024-01-12,New Zealand,Pakistan,5,7,New Zealand,226,8,180,10,0,0,Pakistan,field
+Seddon Park,2024-01-14,New Zealand,Pakistan,5,7,New Zealand,194,9,173,10,0,0,Pakistan,field
+University Oval,2024-01-17,New Zealand,Pakistan,5,7,New Zealand,224,7,179,7,0,0,Pakistan,field
+Hagley Oval,2024-01-19,Pakistan,New Zealand,7,5,New Zealand,158,5,159,3,0,0,New Zealand,field
+Hagley Oval,2024-01-21,Pakistan,New Zealand,7,5,Pakistan,134,8,92,10,0,0,Pakistan,bat
+Sky Stadium,2024-02-21,New Zealand,Australia,5,2,Australia,215,3,216,4,0,0,New Zealand,bat
+Eden Park,2024-02-23,Australia,New Zealand,2,5,Australia,174,10,102,9,0,0,New Zealand,field
+Eden Park,2024-02-25,Australia,New Zealand,2,5,Australia,118,4,98,3,0,0,New Zealand,field
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2023-11-23,Australia,India,2,1,India,208,3,209,8,0,0,India,field
+Greenfield International Stadium,2023-11-26,India,Australia,1,2,India,235,4,191,9,0,0,Australia,field
+Barsapara Cricket Stadium,2023-11-28,India,Australia,1,2,Australia,222,3,225,5,0,0,Australia,field
+Shaheed Veer Narayan Singh International Stadium,2023-12-01,India,Australia,1,2,India,174,9,154,7,0,0,Australia,field
+M Chinnaswamy Stadium,2023-12-03,India,Australia,1,2,India,160,8,154,8,0,0,Australia,field
+Punjab Cricket Association IS Bindra Stadium,2024-01-11,Afghanistan,India,10,1,India,158,5,159,4,0,0,India,field
+Holkar Cricket Stadium,2024-01-14,Afghanistan,India,10,1,India,172,10,173,4,0,0,India,field
+M Chinnaswamy Stadium,2024-01-17,India,Afghanistan,1,10,,239,7,229,9,0,0,India,bat
+Zhejiang University of Technology Cricket Field,2023-10-03,India,Nepal,1,17,India,202,4,179,9,0,0,India,bat
+Zhejiang University of Technology Cricket Field,2023-10-04,Afghanistan,Sri Lanka,10,8,Afghanistan,116,10,108,10,0,0,Sri Lanka,field
+Zhejiang University of Technology Cricket Field,2023-10-06,Bangladesh,India,9,1,India,96,9,97,1,0,0,India,field
+Zhejiang University of Technology Cricket Field,2023-10-06,Pakistan,Afghanistan,7,10,Afghanistan,115,10,116,6,0,0,Afghanistan,field
+Zhejiang University of Technology Cricket Field,2023-10-07,Pakistan,Bangladesh,7,9,Bangladesh,48,1,65,4,0,0,Bangladesh,field
+Zhejiang University of Technology Cricket Field,2023-10-07,Afghanistan,India,10,1,,112,5,0,0,0,0,India,field
+Tribhuvan University International Cricket Ground,2023-11-02,Oman,Nepal,18,17,Oman,145,9,140,10,0,0,Nepal,field
+Tribhuvan University International Cricket Ground,2023-11-05,Nepal,Oman,17,18,,194,7,205,9,0,0,Nepal,bat
+Wanderers Cricket Ground,2023-11-24,Uganda,Namibia,22,14,Namibia,114,10,116,4,0,0,Namibia,field
+Rangiri Dambulla International Stadium,2024-02-17,Sri Lanka,Afghanistan,8,10,Sri Lanka,160,10,156,9,0,0,Afghanistan,field
+Rangiri Dambulla International Stadium,2024-02-19,Sri Lanka,Afghanistan,8,10,Sri Lanka,187,6,115,10,0,0,Afghanistan,field
+Rangiri Dambulla International Stadium,2024-02-21,Afghanistan,Sri Lanka,10,8,Afghanistan,209,5,206,7,0,0,Afghanistan,bat
+Sharjah Cricket Stadium,2024-03-15,Ireland,Afghanistan,11,10,Ireland,149,6,111,10,0,0,Afghanistan,field
+Sharjah Cricket Stadium,2024-03-17,Afghanistan,Ireland,10,11,Afghanistan,152,9,142,8,0,0,Afghanistan,bat
+Sharjah Cricket Stadium,2024-03-18,Afghanistan,Ireland,10,11,Afghanistan,155,7,98,10,0,0,Afghanistan,bat
+Sylhet International Cricket Stadium,2024-03-04,Sri Lanka,Bangladesh,8,9,Sri Lanka,206,3,203,8,0,0,Bangladesh,field
+Sylhet International Cricket Stadium,2024-03-06,Sri Lanka,Bangladesh,8,9,Bangladesh,165,5,170,2,0,0,Bangladesh,field
+Sylhet International Cricket Stadium,2024-03-09,Sri Lanka,Bangladesh,8,9,Sri Lanka,174,7,146,10,0,0,Bangladesh,field
+Tribhuvan University International Cricket Ground,2024-02-27,Namibia,Nepal,14,17,Namibia,206,4,186,10,0,0,Namibia,bat
+Tribhuvan University International Cricket Ground,2024-02-28,Netherlands,Nepal,15,17,Netherlands,184,4,182,8,0,0,Nepal,field
+Tribhuvan University International Cricket Ground,2024-02-29,Netherlands,Namibia,15,14,Netherlands,247,5,188,7,0,0,Netherlands,bat
+Tribhuvan University International Cricket Ground,2024-03-01,Nepal,Namibia,17,14,Nepal,180,8,177,7,0,0,Namibia,field
+Tribhuvan University International Cricket Ground,2024-03-02,Netherlands,Nepal,15,17,Nepal,120,10,121,4,0,0,Netherlands,bat
+Tribhuvan University International Cricket Ground,2024-03-03,Namibia,Netherlands,14,15,,98,4,0,0,0,0,Netherlands,field
+Tribhuvan University International Cricket Ground,2024-03-05,Nepal,Netherlands,17,15,Netherlands,184,8,189,6,0,0,Nepal,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-03-06,Papua New Guinea,Oman,20,18,Oman,136,6,137,7,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-03-07,Oman,Papua New Guinea,18,20,Papua New Guinea,145,7,148,2,0,0,Papua New Guinea,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-03-08,Papua New Guinea,Oman,20,18,Oman,127,6,128,6,0,0,Oman,field
+Mission Road Ground,2024-03-12,Nepal,Papua New Guinea,17,20,Nepal,198,6,113,10,0,0,Papua New Guinea,field
+Mission Road Ground,2024-03-13,Papua New Guinea,Nepal,20,17,Papua New Guinea,171,8,85,10,0,0,Nepal,field
+Achimota Senior Secondary School A Field,2024-03-21,Namibia,Uganda,14,22,Namibia,111,7,87,9,0,0,Namibia,bat
+Rawalpindi Cricket Stadium,2024-04-18,New Zealand,Pakistan,5,7,,2,1,0,0,0,0,New Zealand,bat
+Rawalpindi Cricket Stadium,2024-04-20,New Zealand,Pakistan,5,7,Pakistan,90,10,92,3,0,0,Pakistan,field
+Rawalpindi Cricket Stadium,2024-04-21,Pakistan,New Zealand,7,5,New Zealand,178,5,179,3,0,0,New Zealand,field
+Gaddafi Stadium,2024-04-25,New Zealand,Pakistan,5,7,New Zealand,178,7,174,8,0,0,Pakistan,field
+Gaddafi Stadium,2024-04-27,Pakistan,New Zealand,7,5,Pakistan,178,5,169,10,0,0,New Zealand,field
+Prairie View Cricket Complex,2024-04-07,Canada,United States of America,23,19,United States of America,132,10,133,4,0,1,United States of America,field
+Prairie View Cricket Complex,2024-04-09,United States of America,Canada,19,23,United States of America,230,3,199,10,1,0,Canada,field
+Prairie View Cricket Complex,2024-04-12,United States of America,Canada,19,23,United States of America,159,6,145,6,1,0,Canada,field
+Prairie View Cricket Complex,2024-04-13,Canada,United States of America,23,19,United States of America,168,5,169,6,0,1,Canada,bat
+Prairie View Cricket Complex,2024-05-21,Bangladesh,United States of America,9,19,United States of America,153,6,156,5,0,1,United States of America,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-04-01,Oman,Namibia,18,14,Namibia,109,9,114,6,0,0,Namibia,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-04-02,Oman,Namibia,18,14,Oman,137,7,131,9,0,0,Oman,bat
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-04-04,Namibia,Oman,14,18,Oman,101,8,104,2,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-04-05,Namibia,Oman,14,18,Namibia,164,4,140,9,0,0,Oman,field
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2024-04-07,Namibia,Oman,14,18,Namibia,212,3,150,10,0,0,Namibia,bat
+Castle Avenue,2024-05-10,Pakistan,Ireland,7,11,Ireland,182,6,183,5,0,0,Ireland,field
+Castle Avenue,2024-05-12,Ireland,Pakistan,11,7,Pakistan,193,7,195,3,0,0,Pakistan,field
+Castle Avenue,2024-05-14,Ireland,Pakistan,11,7,Pakistan,178,7,181,4,0,0,Pakistan,field
+Sportpark Westvliet,2024-05-18,Netherlands,Scotland,15,13,Netherlands,167,8,126,10,0,0,Scotland,field
+Sportpark Westvliet,2024-05-19,Ireland,Netherlands,11,15,Ireland,150,8,149,8,0,0,Netherlands,field
+Sportpark Westvliet,2024-05-22,Scotland,Netherlands,13,15,Scotland,158,7,87,10,0,0,Netherlands,field
+The Rose Bowl,2005-06-13,England,Australia,3,2,England,179,8,79,10,0,0,England,bat
+Eden Park,2005-02-17,New Zealand,Australia,5,2,Australia,170,10,214,5,0,0,Australia,bat
+New Wanderers Stadium,2005-10-21,South Africa,New Zealand,4,5,New Zealand,133,10,134,5,0,0,New Zealand,field
+County Ground,2006-08-28,England,Pakistan,3,7,Pakistan,144,7,148,5,0,0,England,bat
+The Rose Bowl,2006-06-15,England,Sri Lanka,3,8,Sri Lanka,161,5,163,10,0,0,Sri Lanka,bat
+Brisbane Cricket Ground,2006-01-09,Australia,South Africa,2,4,Australia,209,3,114,10,0,0,Australia,bat
+Eden Park,2006-02-16,New Zealand,West Indies,5,6,,126,8,126,7,0,1,New Zealand,field
+New Wanderers Stadium,2006-02-24,South Africa,Australia,4,2,South Africa,201,4,199,7,0,0,South Africa,bat
+Sydney Cricket Ground,2007-01-09,Australia,England,2,3,Australia,221,5,144,9,0,0,Australia,bat
+Westpac Stadium,2006-12-22,New Zealand,Sri Lanka,5,8,Sri Lanka,162,8,62,1,0,0,New Zealand,bat
+Eden Park,2006-12-26,New Zealand,Sri Lanka,5,8,New Zealand,116,5,115,10,0,0,New Zealand,field
+New Wanderers Stadium,2006-12-01,South Africa,India,4,1,India,126,9,127,4,0,0,South Africa,bat
+Kennington Oval,2007-06-28,England,West Indies,3,6,West Indies,193,7,208,8,0,1,West Indies,bat
+Kennington Oval,2007-06-29,England,West Indies,3,6,England,173,5,169,7,0,1,West Indies,bat
+New Wanderers Stadium,2007-09-11,South Africa,West Indies,4,6,South Africa,208,2,205,6,0,1,South Africa,field
+Kingsmead,2007-09-12,Pakistan,Scotland,7,13,Pakistan,171,9,120,10,0,0,Scotland,field
+New Wanderers Stadium,2007-09-13,Bangladesh,West Indies,9,6,Bangladesh,165,4,164,8,0,1,Bangladesh,field
+Newlands,2007-09-14,Australia,England,2,3,Australia,136,2,135,10,0,0,England,bat
+Kingsmead,2007-09-14,India,Pakistan,1,7,,141,9,141,7,0,0,Pakistan,field
+New Wanderers Stadium,2007-09-15,New Zealand,Sri Lanka,5,8,Sri Lanka,164,7,168,3,0,0,New Zealand,bat
+Newlands,2007-09-15,South Africa,Bangladesh,4,9,South Africa,146,3,144,10,0,0,South Africa,field
+New Wanderers Stadium,2007-09-16,India,New Zealand,1,5,New Zealand,180,9,190,10,0,0,India,field
+Newlands,2007-09-16,Australia,Bangladesh,2,9,Australia,124,1,123,8,0,0,Australia,field
+Newlands,2007-09-16,South Africa,England,4,3,South Africa,154,8,135,7,0,0,England,field
+New Wanderers Stadium,2007-09-17,Pakistan,Sri Lanka,7,8,Pakistan,189,6,156,9,0,0,Sri Lanka,field
+Kingsmead,2007-09-18,England,New Zealand,3,5,New Zealand,159,8,164,9,0,0,England,field
+New Wanderers Stadium,2007-09-18,Australia,Pakistan,2,7,Pakistan,164,7,165,4,0,0,Pakistan,field
+New Wanderers Stadium,2007-09-18,Bangladesh,Sri Lanka,9,8,Sri Lanka,83,10,147,5,0,0,Bangladesh,field
+Kingsmead,2007-09-19,South Africa,New Zealand,4,5,South Africa,158,4,153,8,0,0,South Africa,field
+Kingsmead,2007-09-19,England,India,3,1,India,200,6,218,4,0,0,India,bat
+Newlands,2007-09-20,Australia,Sri Lanka,2,8,Australia,102,0,101,10,0,0,Australia,field
+Newlands,2007-09-20,Bangladesh,Pakistan,9,7,Pakistan,140,10,141,6,0,0,Pakistan,field
+Kingsmead,2007-09-20,South Africa,India,4,1,India,116,9,153,5,0,0,India,bat
+Newlands,2007-09-22,New Zealand,Pakistan,5,7,Pakistan,143,8,147,4,0,0,New Zealand,bat
+Kingsmead,2007-09-22,Australia,India,2,1,India,173,7,188,5,0,0,India,bat
+New Wanderers Stadium,2007-09-24,India,Pakistan,1,7,India,157,5,152,10,0,0,India,bat
+Western Australia Cricket Association Ground,2007-12-11,Australia,New Zealand,2,5,Australia,186,6,132,10,0,0,Australia,bat
+Melbourne Cricket Ground,2008-02-01,Australia,India,2,1,Australia,75,1,74,10,0,0,India,bat
+Old Trafford,2008-06-13,England,New Zealand,3,5,England,127,1,123,9,0,0,England,field
+Brabourne Stadium,2007-10-20,India,Australia,1,2,India,167,3,166,5,0,0,Australia,bat
+New Wanderers Stadium,2007-11-23,South Africa,New Zealand,4,5,South Africa,131,7,129,7,0,0,South Africa,field
+New Wanderers Stadium,2008-01-18,South Africa,West Indies,4,6,South Africa,134,6,131,7,0,1,South Africa,field
+Eden Park,2008-02-05,New Zealand,England,5,3,England,152,10,184,8,0,0,New Zealand,field
+Jade Stadium,2008-02-07,New Zealand,England,5,3,England,143,8,193,8,0,0,England,bat
+Gymkhana Club Ground,2007-09-02,Bangladesh,Pakistan,9,7,Pakistan,161,7,191,7,0,0,Bangladesh,field
+St George's Park,2007-12-16,South Africa,West Indies,4,6,West Indies,58,8,60,5,0,1,West Indies,field
+Kensington Oval,2008-06-20,West Indies,Australia,6,2,West Indies,102,3,97,3,1,0,West Indies,field
+National Stadium,2008-04-20,Pakistan,Bangladesh,7,9,Pakistan,203,5,101,10,0,0,Pakistan,bat
+Old Trafford,2009-08-30,England,Australia,3,2,,4,2,145,4,0,0,England,field
+New Wanderers Stadium,2008-11-05,South Africa,Bangladesh,4,9,South Africa,118,7,109,8,0,0,Bangladesh,field
+New Wanderers Stadium,2009-03-27,South Africa,Australia,4,2,South Africa,168,6,166,7,0,0,South Africa,field
+SuperSport Park,2009-03-29,South Africa,Australia,4,2,South Africa,156,5,139,8,0,0,Australia,field
+Melbourne Cricket Ground,2009-01-11,Australia,South Africa,2,4,Australia,182,9,130,10,0,0,Australia,bat
+Brisbane Cricket Ground,2009-01-13,Australia,South Africa,2,4,Australia,161,4,157,5,0,0,South Africa,bat
+Sydney Cricket Ground,2009-02-15,Australia,New Zealand,2,5,Australia,150,7,149,5,0,0,Australia,bat
+Queen's Park Oval,2009-03-15,West Indies,England,6,3,West Indies,123,4,121,10,1,0,West Indies,field
+Lord's,2009-06-05,England,Netherlands,3,15,Netherlands,162,5,163,6,0,0,Netherlands,field
+Kennington Oval,2009-06-06,New Zealand,Scotland,5,13,New Zealand,90,3,89,4,0,0,New Zealand,field
+Kennington Oval,2009-06-06,Australia,West Indies,2,6,West Indies,169,7,172,3,0,1,Australia,bat
+Trent Bridge,2009-06-06,Bangladesh,India,9,1,India,155,8,180,5,0,0,India,bat
+Kennington Oval,2009-06-07,Scotland,South Africa,13,4,South Africa,81,10,211,5,0,0,Scotland,field
+Kennington Oval,2009-06-07,England,Pakistan,3,7,England,185,5,137,7,0,0,Pakistan,field
+Trent Bridge,2009-06-08,Bangladesh,Ireland,9,11,Ireland,137,8,138,4,0,0,Ireland,field
+Trent Bridge,2009-06-08,Australia,Sri Lanka,2,8,Sri Lanka,159,9,160,4,0,0,Sri Lanka,field
+Lord's,2009-06-09,Netherlands,Pakistan,15,7,Pakistan,93,10,175,5,0,0,Pakistan,bat
+Lord's,2009-06-09,New Zealand,South Africa,5,4,South Africa,127,5,128,7,0,0,New Zealand,field
+Trent Bridge,2009-06-10,India,Ireland,1,11,India,113,2,112,8,0,0,India,field
+Trent Bridge,2009-06-10,Sri Lanka,West Indies,8,6,Sri Lanka,192,5,177,5,0,1,West Indies,field
+Trent Bridge,2009-06-11,Ireland,New Zealand,11,5,New Zealand,115,10,198,5,0,0,Ireland,field
+Trent Bridge,2009-06-11,England,South Africa,3,4,South Africa,111,10,114,3,0,0,England,bat
+Lord's,2009-06-12,Pakistan,Sri Lanka,7,8,Sri Lanka,131,9,150,7,0,0,Sri Lanka,bat
+Lord's,2009-06-12,India,West Indies,1,6,West Indies,153,7,156,3,0,1,India,bat
+Kennington Oval,2009-06-13,South Africa,West Indies,4,6,South Africa,183,7,163,9,0,1,West Indies,field
+Kennington Oval,2009-06-13,New Zealand,Pakistan,5,7,Pakistan,99,10,100,4,0,0,New Zealand,bat
+Lord's,2009-06-14,Ireland,Sri Lanka,11,8,Sri Lanka,135,7,144,9,0,0,Sri Lanka,bat
+Lord's,2009-06-14,England,India,3,1,England,153,7,150,5,0,0,India,field
+Kennington Oval,2009-06-15,England,West Indies,3,6,West Indies,161,6,82,5,0,1,England,bat
+Kennington Oval,2009-06-15,Ireland,Pakistan,11,7,Pakistan,120,9,159,5,0,0,Pakistan,bat
+Trent Bridge,2009-06-16,New Zealand,Sri Lanka,5,8,Sri Lanka,110,10,158,5,0,0,Sri Lanka,bat
+Trent Bridge,2009-06-16,India,South Africa,1,4,South Africa,118,8,130,5,0,0,South Africa,bat
+Trent Bridge,2009-06-18,Pakistan,South Africa,7,4,Pakistan,149,4,142,5,0,0,Pakistan,bat
+Kennington Oval,2009-06-19,Sri Lanka,West Indies,8,6,Sri Lanka,158,5,101,10,0,1,West Indies,field
+Lord's,2009-06-21,Pakistan,Sri Lanka,7,8,Pakistan,139,2,138,6,0,0,Sri Lanka,bat
+Civil Service Cricket Club,2008-08-04,Netherlands,Scotland,15,13,Netherlands,110,5,107,8,0,0,Netherlands,field
+Maple Leaf North-West Ground,2008-10-11,Pakistan,Sri Lanka,7,8,Pakistan,141,7,137,9,0,0,Pakistan,field
+Maple Leaf North-West Ground,2008-10-13,Pakistan,Sri Lanka,7,8,Sri Lanka,132,7,133,5,0,0,Sri Lanka,field
+Westpac Stadium,2009-02-27,New Zealand,India,5,1,New Zealand,150,5,149,6,0,0,New Zealand,field
+Eden Park,2008-12-26,New Zealand,West Indies,5,6,,170,9,180,9,0,1,New Zealand,bat
+Seddon Park,2008-12-28,New Zealand,West Indies,5,6,New Zealand,191,9,155,7,0,1,New Zealand,bat
+AMI Stadium,2009-02-25,New Zealand,India,5,1,New Zealand,166,3,162,8,0,0,New Zealand,field
+R Premadasa Stadium,2009-02-10,Sri Lanka,India,8,1,India,171,4,174,7,0,0,Sri Lanka,bat
+New Wanderers Stadium,2009-11-13,South Africa,England,4,3,England,127,3,202,6,0,0,South Africa,field
+SuperSport Park,2009-11-15,South Africa,England,4,3,South Africa,241,6,157,8,0,0,South Africa,bat
+Dubai International Cricket Stadium,2009-05-07,Australia,Pakistan,2,7,Pakistan,108,10,109,3,0,0,Pakistan,field
+Warner Park,2009-08-02,West Indies,Bangladesh,6,9,West Indies,119,5,118,9,1,0,Bangladesh,bat
+R Premadasa Stadium,2009-08-12,Sri Lanka,Pakistan,8,7,Pakistan,120,10,172,5,0,0,Pakistan,bat
+R Premadasa Stadium,2009-09-02,Sri Lanka,New Zealand,8,5,New Zealand,138,9,141,8,0,0,New Zealand,bat
+R Premadasa Stadium,2009-09-04,Sri Lanka,New Zealand,8,5,New Zealand,148,8,170,4,0,0,New Zealand,bat
+Bellerive Oval,2010-02-21,Australia,West Indies,2,6,Australia,179,8,141,8,0,1,Australia,bat
+Sydney Cricket Ground,2010-02-23,Australia,West Indies,2,6,Australia,142,2,138,7,0,1,West Indies,bat
+Melbourne Cricket Ground,2010-02-05,Australia,Pakistan,2,7,Australia,127,10,125,9,0,0,Australia,bat
+Providence Stadium,2010-04-30,West Indies,Ireland,6,11,West Indies,138,9,68,10,1,0,West Indies,bat
+Providence Stadium,2010-04-30,New Zealand,Sri Lanka,5,8,New Zealand,139,8,135,6,0,0,Sri Lanka,bat
+Beausejour Stadium,2010-05-01,Afghanistan,India,10,1,India,115,8,116,3,0,0,India,field
+Beausejour Stadium,2010-05-01,Bangladesh,Pakistan,9,7,Pakistan,151,7,172,3,0,0,Pakistan,bat
+Providence Stadium,2010-05-04,England,Ireland,3,11,,120,8,14,1,0,0,Ireland,field
+Beausejour Stadium,2010-05-02,India,South Africa,1,4,India,186,5,172,5,0,0,South Africa,field
+Beausejour Stadium,2010-05-02,Australia,Pakistan,2,7,Australia,191,10,157,10,0,0,Australia,bat
+Providence Stadium,2010-05-03,West Indies,England,6,3,West Indies,60,2,191,5,1,0,West Indies,field
+Kensington Oval,2010-05-05,Afghanistan,South Africa,10,4,South Africa,80,10,139,7,0,0,Afghanistan,field
+Kensington Oval,2010-05-05,Australia,Bangladesh,2,9,Australia,141,7,114,10,0,0,Australia,bat
+Kensington Oval,2010-05-06,England,Pakistan,3,7,England,151,4,147,9,0,0,England,field
+Kensington Oval,2010-05-06,New Zealand,South Africa,5,4,South Africa,157,7,170,4,0,0,South Africa,bat
+Kensington Oval,2010-05-07,Australia,India,2,1,Australia,184,5,135,10,0,0,India,field
+Kensington Oval,2010-05-07,West Indies,Sri Lanka,6,8,Sri Lanka,138,8,195,3,1,0,Sri Lanka,bat
+Kensington Oval,2010-05-08,New Zealand,Pakistan,5,7,New Zealand,133,7,132,7,0,0,Pakistan,field
+Kensington Oval,2010-05-08,England,South Africa,3,4,England,168,7,129,10,0,0,England,bat
+Kensington Oval,2010-05-09,West Indies,India,6,1,West Indies,169,6,155,9,1,0,India,field
+Kensington Oval,2010-05-09,Australia,Sri Lanka,2,8,Australia,168,5,87,10,0,0,Australia,bat
+Beausejour Stadium,2010-05-10,Pakistan,South Africa,7,4,Pakistan,148,7,137,7,0,0,Pakistan,bat
+Beausejour Stadium,2010-05-10,England,New Zealand,3,5,England,153,7,149,6,0,0,New Zealand,bat
+Beausejour Stadium,2010-05-11,India,Sri Lanka,1,8,Sri Lanka,163,5,167,5,0,0,India,bat
+Beausejour Stadium,2010-05-11,West Indies,Australia,6,2,Australia,105,10,109,4,1,0,West Indies,bat
+Beausejour Stadium,2010-05-13,England,Sri Lanka,3,8,England,132,3,128,6,0,0,Sri Lanka,bat
+Beausejour Stadium,2010-05-14,Australia,Pakistan,2,7,Australia,197,7,191,6,0,0,Australia,field
+Kensington Oval,2010-05-16,Australia,England,2,3,England,147,6,148,3,0,0,England,field
+Seddon Park,2010-02-03,New Zealand,Bangladesh,5,9,New Zealand,79,0,78,10,0,0,Bangladesh,bat
+Westpac Stadium,2010-02-26,New Zealand,Australia,5,2,Australia,118,10,119,4,0,0,New Zealand,bat
+AMI Stadium,2010-02-28,New Zealand,Australia,5,2,,223,6,220,5,0,0,New Zealand,bat
+Edgbaston,2010-07-05,Australia,Pakistan,2,7,Pakistan,144,10,167,8,0,0,Pakistan,bat
+Edgbaston,2010-07-06,Australia,Pakistan,2,7,Pakistan,151,10,162,9,0,0,Pakistan,bat
+Sophia Gardens,2010-09-05,England,Pakistan,3,7,England,129,5,126,4,0,0,England,field
+Sophia Gardens,2010-09-07,England,Pakistan,3,7,England,90,4,89,10,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2009-11-12,New Zealand,Pakistan,5,7,Pakistan,112,9,161,8,0,0,New Zealand,field
+Dubai International Cricket Stadium,2009-11-13,New Zealand,Pakistan,5,7,Pakistan,146,5,153,5,0,0,Pakistan,bat
+Vidarbha Cricket Association Stadium,2009-12-09,India,Sri Lanka,1,8,Sri Lanka,186,9,215,5,0,0,India,field
+Punjab Cricket Association Stadium,2009-12-12,India,Sri Lanka,1,8,India,211,4,206,7,0,0,Sri Lanka,bat
+Sir Vivian Richards Stadium,2010-05-19,West Indies,South Africa,6,4,South Africa,123,10,136,7,1,0,West Indies,field
+Dubai International Cricket Stadium,2010-02-09,Afghanistan,Ireland,10,11,Afghanistan,139,8,126,10,0,0,Ireland,field
+Dubai International Cricket Stadium,2010-02-09,Canada,Netherlands,23,15,Netherlands,142,8,146,4,0,0,Canada,bat
+Dubai International Cricket Stadium,2010-02-11,Ireland,Scotland,11,13,Ireland,136,7,99,10,0,0,Ireland,bat
+Dubai International Cricket Stadium,2010-02-12,Afghanistan,Netherlands,10,15,Netherlands,128,9,132,6,0,0,Netherlands,field
+Dubai International Cricket Stadium,2010-02-13,Ireland,Netherlands,11,15,Ireland,151,6,86,10,0,0,Ireland,bat
+Dubai International Cricket Stadium,2010-02-13,Afghanistan,Ireland,10,11,Afghanistan,147,2,142,8,0,0,Ireland,bat
+Dubai International Cricket Stadium,2010-02-19,England,Pakistan,3,7,England,130,3,129,8,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2010-02-20,England,Pakistan,3,7,Pakistan,148,6,149,6,0,0,Pakistan,field
+Western Australia Cricket Association Ground,2010-10-31,Australia,Sri Lanka,2,8,Sri Lanka,133,8,135,3,0,0,Australia,bat
+Adelaide Oval,2011-01-12,Australia,England,2,3,England,157,4,158,9,0,0,Australia,bat
+Melbourne Cricket Ground,2011-01-14,Australia,England,2,3,Australia,147,7,143,6,0,0,Australia,bat
+Sir Vivian Richards Stadium,2010-05-20,West Indies,South Africa,6,4,South Africa,119,7,120,7,1,0,West Indies,field
+Central Broward Regional Park Stadium Turf Ground,2010-05-22,New Zealand,Sri Lanka,5,8,New Zealand,120,7,92,10,0,0,New Zealand,bat
+Central Broward Regional Park Stadium Turf Ground,2010-05-23,New Zealand,Sri Lanka,5,8,Sri Lanka,81,10,82,3,0,0,New Zealand,bat
+Sheikh Zayed Stadium,2010-10-27,Pakistan,South Africa,7,4,South Africa,120,9,125,4,0,0,Pakistan,bat
+Moses Mabhida Stadium,2011-01-09,South Africa,India,4,1,India,147,9,168,6,0,0,India,bat
+Eden Park,2010-12-26,New Zealand,Pakistan,5,7,New Zealand,146,5,143,9,0,0,New Zealand,field
+Seddon Park,2010-12-28,New Zealand,Pakistan,5,7,New Zealand,185,7,146,9,0,0,Pakistan,field
+AMI Stadium,2010-12-30,New Zealand,Pakistan,5,7,Pakistan,80,10,183,6,0,0,Pakistan,bat
+County Ground,2011-06-25,England,Sri Lanka,3,8,Sri Lanka,136,9,137,1,0,0,Sri Lanka,field
+Old Trafford,2011-08-31,England,India,3,1,England,169,4,165,10,0,0,India,bat
+Sheikh Zayed Stadium,2010-10-26,Pakistan,South Africa,7,4,South Africa,119,10,120,4,0,0,Pakistan,bat
+Beausejour Stadium,2011-04-21,West Indies,Pakistan,6,7,West Indies,150,7,143,9,1,0,West Indies,bat
+Queen's Park Oval,2011-06-04,West Indies,India,6,1,India,143,5,159,6,1,0,West Indies,field
+Newlands,2011-10-13,South Africa,Australia,4,2,Australia,146,7,147,5,0,0,South Africa,bat
+New Wanderers Stadium,2011-10-16,South Africa,Australia,4,2,South Africa,148,7,147,8,0,0,Australia,bat
+Pallekele International Cricket Stadium,2011-08-06,Sri Lanka,Australia,8,2,Sri Lanka,198,3,163,8,0,0,Australia,field
+Pallekele International Cricket Stadium,2011-08-08,Sri Lanka,Australia,8,2,Sri Lanka,157,9,149,9,0,0,Sri Lanka,bat
+Stadium Australia,2012-02-01,Australia,India,2,1,Australia,171,4,140,6,0,0,India,field
+Melbourne Cricket Ground,2012-02-03,Australia,India,2,1,India,131,10,135,2,0,0,Australia,bat
+Westpac Stadium,2012-02-17,New Zealand,South Africa,5,4,New Zealand,148,4,147,6,0,0,New Zealand,field
+Seddon Park,2012-02-19,New Zealand,South Africa,5,4,South Africa,173,4,174,2,0,0,South Africa,field
+Eden Park,2012-02-22,New Zealand,South Africa,5,4,South Africa,162,7,165,7,0,0,New Zealand,field
+Eden Gardens,2011-10-29,India,England,1,3,England,120,9,121,4,0,0,India,bat
+Kennington Oval,2011-09-23,England,West Indies,3,6,England,128,0,125,10,0,1,England,field
+Kennington Oval,2011-09-25,England,West Indies,3,6,West Indies,88,10,113,5,0,1,England,field
+Sheikh Zayed Stadium,2011-11-25,Pakistan,Sri Lanka,7,8,Pakistan,142,5,141,10,0,0,Sri Lanka,bat
+Dubai International Cricket Stadium,2012-02-23,England,Pakistan,3,7,Pakistan,136,6,144,6,0,0,England,field
+Dubai International Cricket Stadium,2012-02-25,England,Pakistan,3,7,England,150,7,112,10,0,0,England,bat
+Sheikh Zayed Stadium,2012-02-27,England,Pakistan,3,7,England,129,6,124,6,0,0,England,bat
+Shere Bangla National Stadium,2011-10-11,Bangladesh,West Indies,9,6,Bangladesh,135,7,132,8,0,1,Bangladesh,field
+R Premadasa Stadium,2012-09-19,Australia,Ireland,2,11,Australia,125,3,123,7,0,0,Ireland,bat
+R Premadasa Stadium,2012-09-19,Afghanistan,India,10,1,India,136,10,159,5,0,0,Afghanistan,field
+Pallekele International Cricket Stadium,2012-09-21,Bangladesh,New Zealand,9,5,New Zealand,132,8,191,3,0,0,Bangladesh,field
+R Premadasa Stadium,2012-09-21,Afghanistan,England,10,3,England,80,10,196,5,0,0,Afghanistan,field
+Mahinda Rajapaksa International Cricket Stadium,2012-09-22,Sri Lanka,South Africa,8,4,South Africa,46,5,78,4,0,0,Sri Lanka,field
+R Premadasa Stadium,2012-09-22,Australia,West Indies,2,6,Australia,100,1,191,8,0,1,West Indies,bat
+Pallekele International Cricket Stadium,2012-09-23,New Zealand,Pakistan,5,7,Pakistan,164,9,177,6,0,0,Pakistan,bat
+R Premadasa Stadium,2012-09-23,England,India,3,1,India,80,10,170,4,0,0,England,field
+R Premadasa Stadium,2012-09-24,Ireland,West Indies,11,6,,129,6,0,0,0,1,West Indies,field
+Pallekele International Cricket Stadium,2012-09-25,Bangladesh,Pakistan,9,7,Pakistan,175,6,178,2,0,0,Bangladesh,bat
+Pallekele International Cricket Stadium,2012-09-27,Sri Lanka,New Zealand,8,5,,187,7,181,8,0,0,New Zealand,bat
+Pallekele International Cricket Stadium,2012-09-27,England,West Indies,3,6,West Indies,164,4,179,5,0,1,West Indies,bat
+R Premadasa Stadium,2012-09-28,Pakistan,South Africa,7,4,Pakistan,136,8,133,6,0,0,South Africa,bat
+R Premadasa Stadium,2012-09-28,Australia,India,2,1,Australia,141,1,140,7,0,0,India,bat
+Pallekele International Cricket Stadium,2012-09-29,England,New Zealand,3,5,England,149,4,148,6,0,0,New Zealand,bat
+Pallekele International Cricket Stadium,2012-09-29,Sri Lanka,West Indies,8,6,Sri Lanka,130,1,129,5,0,1,West Indies,bat
+R Premadasa Stadium,2012-09-30,Australia,South Africa,2,4,Australia,147,2,146,5,0,0,Australia,field
+R Premadasa Stadium,2012-09-30,India,Pakistan,1,7,India,129,2,128,10,0,0,Pakistan,bat
+Pallekele International Cricket Stadium,2012-10-01,New Zealand,West Indies,5,6,,156,7,158,10,0,1,New Zealand,field
+Pallekele International Cricket Stadium,2012-10-01,Sri Lanka,England,8,3,Sri Lanka,169,6,150,9,0,0,England,field
+R Premadasa Stadium,2012-10-02,Australia,Pakistan,2,7,Pakistan,117,7,149,6,0,0,Australia,field
+R Premadasa Stadium,2012-10-02,India,South Africa,1,4,India,152,6,151,10,0,0,South Africa,field
+R Premadasa Stadium,2012-10-04,Sri Lanka,Pakistan,8,7,Sri Lanka,139,4,123,7,0,0,Sri Lanka,bat
+R Premadasa Stadium,2012-10-05,Australia,West Indies,2,6,West Indies,131,10,205,4,0,1,West Indies,bat
+R Premadasa Stadium,2012-10-07,Sri Lanka,West Indies,8,6,West Indies,101,10,137,6,0,1,West Indies,bat
+Trent Bridge,2012-06-24,England,West Indies,3,6,England,173,3,172,4,0,1,West Indies,bat
+Riverside Ground,2012-09-08,England,South Africa,3,4,South Africa,118,7,119,3,0,0,South Africa,field
+Old Trafford,2012-09-10,England,South Africa,3,4,,29,2,77,5,0,0,England,field
+Edgbaston,2012-09-12,England,South Africa,3,4,England,118,5,90,5,0,0,South Africa,field
+Shere Bangla National Stadium,2011-11-29,Bangladesh,Pakistan,9,7,Pakistan,85,9,135,7,0,0,Pakistan,bat
+Beausejour Stadium,2012-03-27,West Indies,Australia,6,2,Australia,150,7,153,2,1,0,West Indies,bat
+Kensington Oval,2012-03-30,West Indies,Australia,6,2,West Indies,160,10,146,9,1,0,West Indies,bat
+Dubai International Cricket Stadium,2012-03-13,Canada,Netherlands,23,15,Netherlands,93,10,135,6,0,0,Netherlands,bat
+Dubai International Cricket Stadium,2012-03-14,Afghanistan,Netherlands,10,15,Afghanistan,150,6,149,6,0,0,Netherlands,bat
+Dubai International Cricket Stadium,2012-03-18,Ireland,Scotland,11,13,Ireland,159,5,142,7,0,0,Ireland,bat
+ICC Global Cricket Academy,2012-03-18,Afghanistan,Canada,10,23,Afghanistan,174,8,133,9,0,0,Afghanistan,bat
+Dubai International Cricket Stadium,2012-03-22,Canada,Ireland,23,11,Ireland,106,8,109,0,0,0,Canada,bat
+Dubai International Cricket Stadium,2012-03-23,Ireland,Netherlands,11,15,Ireland,115,3,114,7,0,0,Ireland,field
+Dubai International Cricket Stadium,2012-03-23,Canada,Scotland,23,13,Scotland,135,8,136,6,0,0,Canada,bat
+Dubai International Cricket Stadium,2012-03-24,Afghanistan,Ireland,10,11,Ireland,152,7,156,5,0,0,Afghanistan,bat
+New Wanderers Stadium,2012-03-30,South Africa,India,4,1,South Africa,219,4,71,0,0,0,India,field
+Central Broward Regional Park Stadium Turf Ground,2012-06-30,New Zealand,West Indies,5,6,West Indies,153,9,209,2,0,1,New Zealand,field
+Central Broward Regional Park Stadium Turf Ground,2012-07-01,New Zealand,West Indies,5,6,West Indies,116,10,177,5,0,1,West Indies,bat
+Mahinda Rajapaksa International Cricket Stadium,2012-06-01,Sri Lanka,Pakistan,8,7,Sri Lanka,132,7,95,10,0,0,Sri Lanka,bat
+Mahinda Rajapaksa International Cricket Stadium,2012-06-03,Sri Lanka,Pakistan,8,7,Pakistan,99,10,122,6,0,0,Pakistan,bat
+Pallekele International Cricket Stadium,2012-08-07,Sri Lanka,India,8,1,India,116,10,155,3,0,0,Sri Lanka,field
+Subrata Roy Sahara Stadium,2012-12-20,India,England,1,3,India,158,5,157,6,0,0,India,field
+Wankhede Stadium,2012-12-22,India,England,1,3,England,177,8,181,4,0,0,England,field
+MA Chidambaram Stadium,2012-09-11,India,New Zealand,1,5,New Zealand,166,4,167,5,0,0,India,field
+Kennington Oval,2013-06-25,England,New Zealand,3,5,New Zealand,196,5,201,4,0,0,England,field
+Kennington Oval,2013-06-27,England,New Zealand,3,5,,2,1,0,0,0,0,New Zealand,field
+The Rose Bowl,2013-08-29,England,Australia,3,2,Australia,209,6,248,6,0,0,England,field
+Riverside Ground,2013-08-31,England,Australia,3,2,England,195,5,168,9,0,0,Australia,field
+Civil Service Cricket Club,2012-07-18,Ireland,Bangladesh,11,9,Bangladesh,119,8,190,5,0,0,Ireland,field
+Sportpark Westvliet,2012-07-25,Netherlands,Bangladesh,15,9,Bangladesh,144,7,145,2,0,0,Netherlands,bat
+Kingsmead,2012-12-21,South Africa,New Zealand,4,5,South Africa,87,2,86,10,0,0,New Zealand,bat
+Buffalo Park,2012-12-23,South Africa,New Zealand,4,5,New Zealand,165,5,169,2,0,0,New Zealand,field
+St George's Park,2012-12-26,South Africa,New Zealand,4,5,South Africa,179,6,146,9,0,0,South Africa,bat
+SuperSport Park,2013-03-03,South Africa,Pakistan,4,7,Pakistan,100,10,195,7,0,0,Pakistan,bat
+Eden Park,2013-02-09,New Zealand,England,5,3,England,174,9,214,7,0,0,New Zealand,field
+Seddon Park,2013-02-12,New Zealand,England,5,3,New Zealand,192,6,137,10,0,0,England,field
+Westpac Stadium,2013-02-15,New Zealand,England,5,3,England,139,8,143,0,0,0,England,field
+Dubai International Cricket Stadium,2012-09-05,Australia,Pakistan,2,7,Pakistan,89,10,90,3,0,0,Pakistan,field
+Dubai International Cricket Stadium,2012-09-07,Australia,Pakistan,2,7,,162,9,163,4,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2012-09-10,Australia,Pakistan,2,7,Australia,168,7,74,10,0,0,Pakistan,field
+Stadium Australia,2013-01-26,Australia,Sri Lanka,2,8,Sri Lanka,137,3,139,5,0,0,Australia,bat
+Melbourne Cricket Ground,2013-01-28,Australia,Sri Lanka,2,8,Sri Lanka,119,3,161,4,0,0,Australia,field
+Brisbane Cricket Ground,2013-02-13,Australia,West Indies,2,6,West Indies,164,8,191,6,0,1,West Indies,bat
+Sportpark Westvliet,2012-07-26,Netherlands,Bangladesh,15,9,Netherlands,131,9,128,10,0,0,Bangladesh,bat
+Pallekele International Cricket Stadium,2012-10-30,Sri Lanka,New Zealand,8,5,,6,0,74,7,0,0,Sri Lanka,field
+Shere Bangla National Stadium,2012-12-10,Bangladesh,West Indies,9,6,West Indies,179,1,197,4,0,1,West Indies,bat
+M Chinnaswamy Stadium,2012-12-25,India,Pakistan,1,7,Pakistan,133,9,134,5,0,0,Pakistan,field
+Sardar Patel Stadium,2012-12-28,India,Pakistan,1,7,India,192,5,181,7,0,0,Pakistan,field
+Sharjah Cricket Stadium,2013-03-03,Afghanistan,Scotland,10,13,Afghanistan,132,7,105,6,0,0,Afghanistan,bat
+Sharjah Cricket Stadium,2013-03-04,Afghanistan,Scotland,10,13,Afghanistan,140,3,139,7,0,0,Scotland,bat
+Pallekele International Cricket Stadium,2013-03-31,Sri Lanka,Bangladesh,8,9,Sri Lanka,198,5,181,7,0,0,Bangladesh,field
+R Premadasa Stadium,2013-08-02,Sri Lanka,South Africa,8,4,South Africa,103,9,115,6,0,0,South Africa,bat
+Mahinda Rajapaksa International Cricket Stadium,2013-08-04,Sri Lanka,South Africa,8,4,South Africa,123,7,145,6,0,0,South Africa,bat
+Mahinda Rajapaksa International Cricket Stadium,2013-08-06,Sri Lanka,South Africa,8,4,Sri Lanka,164,4,163,3,0,0,South Africa,bat
+Bellerive Oval,2014-01-29,Australia,England,2,3,Australia,213,4,200,9,0,0,Australia,bat
+Melbourne Cricket Ground,2014-01-31,Australia,England,2,3,Australia,131,2,130,9,0,0,England,bat
+Stadium Australia,2014-02-02,Australia,England,2,3,Australia,195,6,111,10,0,0,Australia,bat
+Kensington Oval,2014-03-09,West Indies,England,6,3,West Indies,170,3,143,9,1,0,West Indies,bat
+Kensington Oval,2014-03-11,West Indies,England,6,3,West Indies,155,5,152,7,1,0,England,bat
+Kensington Oval,2014-03-13,West Indies,England,6,3,England,160,7,165,6,1,0,England,bat
+Arnos Vale Ground,2013-07-27,West Indies,Pakistan,6,7,Pakistan,152,7,158,8,1,0,West Indies,bat
+Arnos Vale Ground,2013-07-28,West Indies,Pakistan,6,7,Pakistan,124,9,135,7,1,0,Pakistan,bat
+Saurashtra Cricket Association Stadium,2013-10-10,India,Australia,1,2,India,202,4,201,7,0,0,India,field
+Kingsmead,2014-03-12,South Africa,Australia,4,2,Australia,80,1,81,5,0,0,Australia,field
+SuperSport Park,2014-03-14,South Africa,Australia,4,2,Australia,128,7,129,4,0,0,Australia,field
+Dubai International Cricket Stadium,2013-11-13,Pakistan,South Africa,7,4,South Africa,98,9,99,1,0,0,Pakistan,bat
+Dubai International Cricket Stadium,2013-11-15,Pakistan,South Africa,7,4,South Africa,144,9,150,5,0,0,South Africa,bat
+Sharjah Cricket Stadium,2013-12-08,Afghanistan,Pakistan,10,7,Pakistan,137,8,138,4,0,0,Afghanistan,bat
+Dubai International Cricket Stadium,2013-12-11,Pakistan,Sri Lanka,7,8,Pakistan,146,7,145,5,0,0,Pakistan,field
+Dubai International Cricket Stadium,2013-12-13,Pakistan,Sri Lanka,7,8,Sri Lanka,187,10,211,3,0,0,Pakistan,field
+Sharjah Cricket Stadium,2013-11-15,Afghanistan,Netherlands,10,15,Netherlands,90,10,92,3,0,0,Afghanistan,bat
+Sheikh Zayed Stadium,2013-11-16,Canada,Ireland,23,11,Ireland,166,3,168,5,0,0,Canada,field
+Sharjah Cricket Stadium,2013-11-16,Afghanistan,Scotland,10,13,Afghanistan,171,6,154,6,0,0,Afghanistan,bat
+ICC Academy,2013-11-22,Netherlands,Scotland,15,13,Scotland,150,6,165,4,0,0,Netherlands,field
+Sheikh Zayed Stadium,2013-11-28,Netherlands,Scotland,15,13,Netherlands,149,2,147,6,0,0,Scotland,bat
+Sheikh Zayed Stadium,2013-11-30,Afghanistan,Ireland,10,11,Ireland,157,10,225,7,0,0,Ireland,bat
+Eden Park,2014-01-11,New Zealand,West Indies,5,6,New Zealand,189,5,108,8,0,1,New Zealand,bat
+Westpac Stadium,2014-01-15,New Zealand,West Indies,5,6,New Zealand,163,6,159,5,0,1,West Indies,bat
+Edgbaston,2014-09-07,England,India,3,1,England,180,7,177,5,0,0,England,bat
+Kennington Oval,2014-05-20,England,Sri Lanka,3,8,Sri Lanka,174,7,183,7,0,0,England,field
+Shere Bangla National Stadium,2013-11-06,Bangladesh,New Zealand,9,5,New Zealand,189,9,204,5,0,0,New Zealand,bat
+Pallekele International Cricket Stadium,2013-11-21,Sri Lanka,New Zealand,8,5,Sri Lanka,143,2,142,7,0,0,Sri Lanka,field
+Shere Bangla National Stadium,2014-03-16,Bangladesh,Afghanistan,9,10,Bangladesh,78,1,72,10,0,0,Bangladesh,field
+Zahur Ahmed Chowdhury Stadium,2014-03-18,Bangladesh,Nepal,9,17,Bangladesh,132,2,126,5,0,0,Bangladesh,field
+Zahur Ahmed Chowdhury Stadium,2014-03-20,Afghanistan,Nepal,10,17,Nepal,132,8,141,5,0,0,Afghanistan,field
+Sylhet Stadium,2014-03-21,Ireland,Netherlands,11,15,Netherlands,189,4,193,4,0,0,Netherlands,field
+Shere Bangla National Stadium,2014-03-21,India,Pakistan,1,7,India,131,3,130,7,0,0,India,field
+Zahur Ahmed Chowdhury Stadium,2014-03-22,South Africa,Sri Lanka,4,8,Sri Lanka,160,8,165,7,0,0,Sri Lanka,bat
+Zahur Ahmed Chowdhury Stadium,2014-03-22,England,New Zealand,3,5,New Zealand,172,6,52,1,0,0,New Zealand,field
+Shere Bangla National Stadium,2014-03-23,Australia,Pakistan,2,7,Pakistan,175,10,191,5,0,0,Australia,field
+Shere Bangla National Stadium,2014-03-23,India,West Indies,1,6,India,130,3,129,7,0,1,India,field
+Zahur Ahmed Chowdhury Stadium,2014-03-24,New Zealand,South Africa,5,4,South Africa,168,8,170,6,0,0,New Zealand,field
+Zahur Ahmed Chowdhury Stadium,2014-03-24,Netherlands,Sri Lanka,15,8,Sri Lanka,39,10,40,1,0,0,Sri Lanka,field
+Shere Bangla National Stadium,2014-03-25,Bangladesh,West Indies,9,6,West Indies,98,10,171,7,0,1,Bangladesh,field
+Zahur Ahmed Chowdhury Stadium,2014-03-27,Netherlands,South Africa,15,4,South Africa,139,10,145,9,0,0,Netherlands,field
+Zahur Ahmed Chowdhury Stadium,2014-03-27,England,Sri Lanka,3,8,England,190,4,189,4,0,0,England,field
+Shere Bangla National Stadium,2014-03-28,Australia,West Indies,2,6,West Indies,178,8,179,4,0,1,Australia,bat
+Shere Bangla National Stadium,2014-03-28,Bangladesh,India,9,1,India,138,7,141,2,0,0,India,field
+Zahur Ahmed Chowdhury Stadium,2014-03-29,Netherlands,New Zealand,15,5,New Zealand,151,4,152,4,0,0,New Zealand,field
+Zahur Ahmed Chowdhury Stadium,2014-03-29,England,South Africa,3,4,South Africa,193,7,196,5,0,0,England,field
+Shere Bangla National Stadium,2014-03-30,Bangladesh,Pakistan,9,7,Pakistan,140,7,190,5,0,0,Pakistan,bat
+Shere Bangla National Stadium,2014-03-30,Australia,India,2,1,India,86,10,159,7,0,0,Australia,field
+Zahur Ahmed Chowdhury Stadium,2014-03-31,England,Netherlands,3,15,Netherlands,88,10,133,5,0,0,England,field
+Zahur Ahmed Chowdhury Stadium,2014-03-31,New Zealand,Sri Lanka,5,8,Sri Lanka,60,9,119,10,0,0,New Zealand,field
+Shere Bangla National Stadium,2014-04-01,Bangladesh,Australia,9,2,Australia,153,5,158,3,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2014-04-01,Pakistan,West Indies,7,6,West Indies,82,10,166,6,0,1,West Indies,bat
+Shere Bangla National Stadium,2014-04-03,Sri Lanka,West Indies,8,6,Sri Lanka,160,6,80,4,0,1,Sri Lanka,bat
+Shere Bangla National Stadium,2014-04-04,India,South Africa,1,4,India,176,4,172,4,0,0,South Africa,bat
+Shere Bangla National Stadium,2014-04-06,India,Sri Lanka,1,8,Sri Lanka,130,4,134,4,0,0,Sri Lanka,field
+New Wanderers Stadium,2013-11-20,South Africa,Pakistan,4,7,South Africa,153,7,60,2,0,0,Pakistan,field
+Newlands,2013-11-22,South Africa,Pakistan,4,7,Pakistan,170,4,176,4,0,0,Pakistan,bat
+Zahur Ahmed Chowdhury Stadium,2014-02-12,Bangladesh,Sri Lanka,9,8,Sri Lanka,166,7,168,7,0,0,Bangladesh,field
+Zahur Ahmed Chowdhury Stadium,2014-02-14,Bangladesh,Sri Lanka,9,8,Sri Lanka,120,10,123,7,0,0,Bangladesh,bat
+Sabina Park,2014-02-19,West Indies,Ireland,6,11,Ireland,116,8,117,4,1,0,West Indies,bat
+Sabina Park,2014-02-21,West Indies,Ireland,6,11,West Indies,96,9,85,8,1,0,Ireland,field
+Newlands,2015-01-09,South Africa,West Indies,4,6,West Indies,165,4,168,6,0,1,South Africa,bat
+New Wanderers Stadium,2015-01-11,South Africa,West Indies,4,6,West Indies,231,7,236,6,0,1,West Indies,field
+Dubai International Cricket Stadium,2014-10-05,Australia,Pakistan,2,7,Australia,97,4,96,9,0,0,Pakistan,bat
+Windsor Park,2014-07-05,West Indies,New Zealand,6,5,New Zealand,132,8,117,4,1,0,New Zealand,field
+Windsor Park,2014-07-06,West Indies,New Zealand,6,5,West Indies,165,6,126,10,1,0,New Zealand,field
+Warner Park,2014-08-27,West Indies,Bangladesh,6,9,,0,0,31,0,1,0,Bangladesh,bat
+Kingsmead,2015-01-14,South Africa,West Indies,4,6,South Africa,195,3,126,10,0,1,West Indies,field
+Dubai International Cricket Stadium,2014-12-04,New Zealand,Pakistan,5,7,Pakistan,135,7,140,3,0,0,Pakistan,field
+Old Trafford,2015-06-23,England,New Zealand,3,5,England,191,7,135,10,0,0,England,bat
+Sophia Gardens,2015-08-31,England,Australia,3,2,England,182,5,177,8,0,0,Australia,field
+Dubai International Cricket Stadium,2014-12-05,New Zealand,Pakistan,5,7,New Zealand,144,8,127,10,0,0,Pakistan,field
+Adelaide Oval,2014-11-05,Australia,South Africa,2,4,South Africa,144,6,145,3,0,0,Australia,bat
+Melbourne Cricket Ground,2014-11-07,Australia,South Africa,2,4,Australia,102,3,101,7,0,0,South Africa,bat
+Stadium Australia,2014-11-09,Australia,South Africa,2,4,Australia,146,8,145,6,0,0,Australia,field
+Newlands,2016-02-19,South Africa,England,4,3,South Africa,135,7,134,8,0,0,South Africa,field
+New Wanderers Stadium,2016-02-21,South Africa,England,4,3,South Africa,172,1,171,10,0,0,South Africa,field
+Shere Bangla National Stadium,2015-07-05,Bangladesh,South Africa,9,4,South Africa,96,10,148,4,0,0,South Africa,bat
+Shere Bangla National Stadium,2015-07-07,Bangladesh,South Africa,9,4,South Africa,138,10,169,4,0,0,South Africa,bat
+Kingsmead,2015-08-14,South Africa,New Zealand,4,5,South Africa,152,4,151,8,0,0,South Africa,field
+SuperSport Park,2015-08-16,South Africa,New Zealand,4,5,New Zealand,145,8,177,7,0,0,New Zealand,bat
+Shere Bangla National Stadium,2015-04-24,Bangladesh,Pakistan,9,7,Bangladesh,143,3,141,5,0,0,Pakistan,bat
+R Premadasa Stadium,2015-07-30,Sri Lanka,Pakistan,8,7,Pakistan,146,7,175,5,0,0,Pakistan,bat
+R Premadasa Stadium,2015-08-01,Sri Lanka,Pakistan,8,7,Pakistan,172,7,174,9,0,0,Sri Lanka,bat
+Grange Cricket Club Ground,2015-07-09,Afghanistan,Netherlands,10,15,Afghanistan,162,7,130,10,0,0,Netherlands,field
+Grange Cricket Club Ground,2015-07-11,Scotland,Netherlands,13,15,Netherlands,159,10,191,6,0,0,Netherlands,bat
+Grange Cricket Club Ground,2015-07-12,Scotland,Afghanistan,13,10,Afghanistan,173,10,210,5,0,0,Afghanistan,bat
+Civil Service Cricket Club,2015-07-13,Nepal,Ireland,17,11,Ireland,53,10,54,2,0,0,Ireland,field
+Civil Service Cricket Club,2015-07-15,Ireland,Papua New Guinea,11,20,Papua New Guinea,123,9,124,8,0,0,Ireland,bat
+The Village,2015-07-17,Nepal,Papua New Guinea,17,20,Papua New Guinea,93,10,99,2,0,0,Papua New Guinea,field
+The Village,2015-07-23,Afghanistan,Papua New Guinea,10,20,Afghanistan,128,4,127,6,0,0,Papua New Guinea,bat
+Clontarf Cricket Club Ground,2015-07-25,Afghanistan,Oman,10,18,Afghanistan,130,5,127,9,0,0,Afghanistan,field
+The Village,2015-07-25,Ireland,Netherlands,11,15,Netherlands,128,10,129,5,0,0,Netherlands,field
+VRA Ground,2015-07-01,Netherlands,Nepal,15,17,Netherlands,172,4,69,10,0,0,Nepal,field
+Hazelaarweg,2015-07-02,Netherlands,Nepal,15,17,Netherlands,149,6,131,9,0,0,Netherlands,bat
+Kingsmead,2016-03-04,South Africa,Australia,4,2,South Africa,158,7,157,9,0,0,Australia,bat
+New Wanderers Stadium,2016-03-06,South Africa,Australia,4,2,Australia,204,7,205,5,0,0,Australia,field
+Newlands,2016-03-09,South Africa,Australia,4,2,Australia,178,4,181,4,0,0,South Africa,bat
+Bready Cricket Club,2015-06-20,Ireland,Scotland,11,13,Scotland,166,6,167,4,0,0,Scotland,field
+Adelaide Oval,2016-01-26,Australia,India,2,1,India,151,10,188,3,0,0,Australia,field
+Melbourne Cricket Ground,2016-01-29,Australia,India,2,1,India,157,8,184,3,0,0,Australia,field
+Sydney Cricket Ground,2016-01-31,Australia,India,2,1,India,197,5,200,3,0,0,Australia,bat
+Dubai International Cricket Stadium,2015-11-26,England,Pakistan,3,7,England,160,5,146,10,0,0,England,bat
+Dubai International Cricket Stadium,2015-11-27,England,Pakistan,3,7,England,172,8,169,8,0,0,England,bat
+Sharjah Cricket Stadium,2015-11-30,England,Pakistan,3,7,,158,8,157,8,0,0,England,bat
+Himachal Pradesh Cricket Association Stadium,2015-10-02,India,South Africa,1,4,South Africa,199,5,200,3,0,0,South Africa,field
+Barabati Stadium,2015-10-05,India,South Africa,1,4,South Africa,92,10,96,4,0,0,South Africa,field
+The Rose Bowl,2016-07-05,England,Sri Lanka,3,8,England,144,2,140,10,0,0,Sri Lanka,bat
+Old Trafford,2016-09-07,England,Pakistan,3,7,Pakistan,135,7,139,1,0,0,England,bat
+Bay Oval,2016-01-07,New Zealand,Sri Lanka,5,8,New Zealand,182,4,179,9,0,0,Sri Lanka,field
+Eden Park,2016-01-10,New Zealand,Sri Lanka,5,8,New Zealand,147,1,142,8,0,0,New Zealand,field
+Eden Park,2016-01-15,New Zealand,Pakistan,5,7,Pakistan,155,10,171,8,0,0,New Zealand,field
+Seddon Park,2016-01-17,New Zealand,Pakistan,5,7,New Zealand,171,0,168,7,0,0,Pakistan,bat
+Westpac Stadium,2016-01-22,New Zealand,Pakistan,5,7,New Zealand,196,6,101,10,0,0,Pakistan,field
+Pallekele International Cricket Stadium,2015-11-09,Sri Lanka,West Indies,8,6,Sri Lanka,215,3,185,10,0,1,West Indies,field
+R Premadasa Stadium,2015-11-11,Sri Lanka,West Indies,8,6,West Indies,139,10,162,6,0,1,West Indies,bat
+Sheikh Zayed Stadium,2015-11-30,Afghanistan,Oman,10,18,Afghanistan,160,4,148,8,0,0,Oman,field
+SuperSport Park,2017-01-20,South Africa,Sri Lanka,4,8,South Africa,126,5,107,6,0,0,Sri Lanka,field
+New Wanderers Stadium,2017-01-22,South Africa,Sri Lanka,4,8,Sri Lanka,113,10,119,7,0,0,South Africa,bat
+Newlands,2017-01-25,South Africa,Sri Lanka,4,8,Sri Lanka,169,5,170,5,0,0,South Africa,bat
+Vidarbha Cricket Association Stadium,2016-03-08,Afghanistan,Scotland,10,13,Afghanistan,170,5,156,5,0,0,Afghanistan,bat
+Himachal Pradesh Cricket Association Stadium,2016-03-09,Bangladesh,Netherlands,9,15,Bangladesh,153,7,145,7,0,0,Netherlands,field
+Himachal Pradesh Cricket Association Stadium,2016-03-09,Ireland,Oman,11,18,Oman,154,5,157,8,0,0,Ireland,bat
+Himachal Pradesh Cricket Association Stadium,2016-03-11,Bangladesh,Ireland,9,11,,94,2,0,0,0,0,Ireland,field
+Himachal Pradesh Cricket Association Stadium,2016-03-13,Ireland,Netherlands,11,15,Netherlands,47,7,59,5,0,0,Ireland,field
+Himachal Pradesh Cricket Association Stadium,2016-03-13,Bangladesh,Oman,9,18,Bangladesh,180,2,65,9,0,0,Oman,field
+Vidarbha Cricket Association Stadium,2016-03-15,India,New Zealand,1,5,New Zealand,79,10,126,7,0,0,New Zealand,bat
+Wankhede Stadium,2016-03-16,England,West Indies,3,6,West Indies,182,6,183,4,0,1,West Indies,field
+Eden Gardens,2016-03-16,Bangladesh,Pakistan,9,7,Pakistan,146,6,201,5,0,0,Pakistan,bat
+Eden Gardens,2016-03-17,Afghanistan,Sri Lanka,10,8,Sri Lanka,153,7,155,4,0,0,Afghanistan,bat
+Himachal Pradesh Cricket Association Stadium,2016-03-18,Australia,New Zealand,2,5,New Zealand,134,9,142,8,0,0,New Zealand,bat
+Wankhede Stadium,2016-03-18,England,South Africa,3,4,England,230,8,229,4,0,0,England,field
+Eden Gardens,2016-03-19,India,Pakistan,1,7,India,119,4,118,5,0,0,India,field
+Wankhede Stadium,2016-03-20,Afghanistan,South Africa,10,4,South Africa,172,10,209,5,0,0,South Africa,bat
+M Chinnaswamy Stadium,2016-03-20,Sri Lanka,West Indies,8,6,West Indies,122,9,127,3,0,1,West Indies,field
+M Chinnaswamy Stadium,2016-03-21,Australia,Bangladesh,2,9,Australia,157,7,156,5,0,0,Australia,field
+Punjab Cricket Association IS Bindra Stadium,2016-03-22,New Zealand,Pakistan,5,7,New Zealand,180,5,158,5,0,0,New Zealand,bat
+Feroz Shah Kotla,2016-03-23,Afghanistan,England,10,3,England,127,9,142,7,0,0,England,bat
+M Chinnaswamy Stadium,2016-03-23,India,Bangladesh,1,9,India,146,7,145,9,0,0,Bangladesh,field
+Punjab Cricket Association IS Bindra Stadium,2016-03-25,Australia,Pakistan,2,7,Australia,193,4,172,8,0,0,Australia,bat
+Vidarbha Cricket Association Stadium,2016-03-25,South Africa,West Indies,4,6,West Indies,122,8,123,7,0,1,West Indies,field
+Eden Gardens,2016-03-26,Bangladesh,New Zealand,9,5,New Zealand,70,10,145,8,0,0,New Zealand,bat
+Feroz Shah Kotla,2016-03-26,England,Sri Lanka,3,8,England,171,4,161,8,0,0,Sri Lanka,field
+Punjab Cricket Association IS Bindra Stadium,2016-03-27,India,Australia,1,2,India,161,4,160,6,0,0,Australia,bat
+Vidarbha Cricket Association Stadium,2016-03-27,Afghanistan,West Indies,10,6,Afghanistan,123,7,117,8,0,1,West Indies,field
+Feroz Shah Kotla,2016-03-28,South Africa,Sri Lanka,4,8,South Africa,122,2,120,10,0,0,South Africa,field
+Feroz Shah Kotla,2016-03-30,England,New Zealand,3,5,England,159,3,153,8,0,0,England,field
+Wankhede Stadium,2016-03-31,India,West Indies,1,6,West Indies,192,2,196,3,0,1,West Indies,field
+Eden Gardens,2016-04-03,England,West Indies,3,6,West Indies,155,9,161,6,0,1,West Indies,field
+Tony Ireland Stadium,2016-02-07,Ireland,Papua New Guinea,11,20,Ireland,96,5,89,9,0,0,Papua New Guinea,field
+Tony Ireland Stadium,2016-02-09,Ireland,Papua New Guinea,11,20,Papua New Guinea,105,10,116,8,0,0,Papua New Guinea,bat
+Maharashtra Cricket Association Stadium,2016-02-09,India,Sri Lanka,1,8,Sri Lanka,101,10,105,5,0,0,Sri Lanka,field
+JSCA International Stadium Complex,2016-02-12,India,Sri Lanka,1,8,India,196,6,127,9,0,0,Sri Lanka,field
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-02-14,India,Sri Lanka,1,8,India,84,1,82,10,0,0,India,field
+Khan Shaheb Osman Ali Stadium,2016-02-20,Afghanistan,Oman,10,18,Afghanistan,168,7,165,4,0,0,Oman,bat
+Shere Bangla National Stadium,2016-02-24,India,Bangladesh,1,9,India,166,6,121,7,0,0,Bangladesh,field
+Shere Bangla National Stadium,2016-02-27,India,Pakistan,1,7,India,85,5,83,10,0,0,India,field
+Shere Bangla National Stadium,2016-02-28,Bangladesh,Sri Lanka,9,8,Bangladesh,147,7,124,8,0,0,Bangladesh,bat
+Shere Bangla National Stadium,2016-03-01,India,Sri Lanka,1,8,India,142,5,138,9,0,0,India,field
+Shere Bangla National Stadium,2016-03-02,Bangladesh,Pakistan,9,7,Bangladesh,131,5,129,7,0,0,Pakistan,bat
+Shere Bangla National Stadium,2016-03-04,Pakistan,Sri Lanka,7,8,Pakistan,151,4,150,4,0,0,Pakistan,field
+Shere Bangla National Stadium,2016-03-06,Bangladesh,India,9,1,India,120,5,122,2,0,0,India,field
+Pallekele International Cricket Stadium,2016-09-06,Sri Lanka,Australia,8,2,Australia,178,9,263,3,0,0,Sri Lanka,field
+R Premadasa Stadium,2016-09-09,Sri Lanka,Australia,8,2,Australia,128,9,130,6,0,0,Sri Lanka,bat
